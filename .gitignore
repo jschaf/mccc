@@ -87,3 +87,8 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+# custom
+.DS_Store
+*.docx
+*.pdf
