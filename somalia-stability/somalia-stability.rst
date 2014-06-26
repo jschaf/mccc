@@ -12,10 +12,9 @@ Somalia possesses rich natural resources and a strategic location in
 the horn of Africa.
 
 Stability and Somalia are words not often paired together.  Somalia
-topped the Failed States Index for the previous three years, and
-finished in the top 1- for the last XX years.  With a checkered
-history, drivers of stability in Somalia must be viewed as fledgling
-drivers of stability, not Michael Schumaker.
+topped the Failed States Index from 2008-2013 and ranks seconds in
+2014.[@fund_for_peace_fragile_2014]  With a checkered history, drivers of stability in Somalia must
+be viewed as fledgling drivers of stability.
 
 Politics
 ========
@@ -35,13 +34,34 @@ whims of the central government.  Additionally, the political process
 has not yet reached the level of decorum expected in a modern state.
 
 Fistfights frequently occured in the TFG Parliment parliament,
-ocassionaly escalating to full brawls.  [@heaton_somalias_2012]  The
+ocassionaly escalating to full brawls.  [@heaton_somalias_2012] The
 U.S. House of Representatives demonstrated similar behaviour in 1858,
-in which over 30 members engaged in hand-to-hand combat. [@history_art_&_archives_u.s._house_of_representatives_most_2014]
+in which over 30 members engaged in hand-to-hand
+combat. [@history_art_&_archives_u.s._house_of_representatives_most_2014]
 
-Nevertheless, the Somali blend of governance seems to work
-and it matches the country that made it.  At least we're not
-overthrowing their shah.  Member of the African Union.
+
+The recent presedential election highlights the advances of the Somali
+Governement.  A university professor usurped the incumbent, President
+Sheikh Sharif despite the fact that Sharif spent $7 million in
+bribes.[@fergusson_worlds_2013 loc 114]
+
+"The Taliban put great importance on getting their message across to
+an international audience , and were prepared to take considerable
+risks to do so. They understood that the continuation of Nato’s war
+depended on Western public approval ratings, and that the foreign
+media offered them their best opportunity to undermine
+these. Al-Shabaab, by contrast, usually just wanted to shoot the
+messenger. Their common assumption, almost a default position, was
+that all journalists – even local ones – were traitors and
+spies. Al-Shabaab knew, or thought they knew, that AMISOM had access
+to CIA surveillance technology, and were paranoid about being
+traced. This meant that there was no phone number a journalist could
+call to request an interview, no email address to write to, and of
+course no physical office to visit." [@fergusson_worlds_2013, loc 1537]
+
+Nevertheless, the Somali blend of governance seems to work and it
+matches the country that made it.  At least we're not overthrowing
+their shah.  Member of the African Union.
 
 Military
 ========
@@ -75,9 +95,30 @@ The people noticed the winning record of AMISOM and have given their
 support.  The African Union Mission in Somalia (AMISOM) consists of
 Uganda, Burundian, Djibouti, Sierra Leone, and Kenya.
 
+In addition to military support, the healthcare services delivered by
+the AMISOM quickly won approval of the populations.  Despite threats
+from Al-Shabaab, and hours long queues, Somalias contined to recieve
+medical treatment.[@fergusson_worlds_2013, 630]
+
 
 The Somalia Army in and of itself lacks the capability to counter
-insurgencies.  Frequent pay problems plague the military. In one case
+insurgencies.
+
+The truth, of course, is that the foreigners are running the offensive
+– AMISOM versus Islamisom, as the local joke goes – because the TFG’s
+‘army’ is actually an uncertain alliance of clan militias incapable of
+leading anything much. There have been stories of TFG troops deserting
+their posts, and of shooting at each other instead of at
+al-Shabaab. They are even suspected of selling the enemy their weapons
+and ammunition. [@fergusson_worlds_2013, loc 230]
+
+Despite the talent difference between members of AMISOM, other African
+Union countries have a stake in the outcome of Somalia.  The rise of
+terrorist organizations in Africa continues at a startling rate,
+including AQIM, al-Quaida In the Maghreb, Boko Haram (Books Forbidden
+or Western education is sinful).  The AMISOM mission is an attempt to
+stem the flow of extreme Islamist idealogy into Africa.
+Frequent pay problems plague the military. In one case
 the military went without pay for six months. [@ihs_janes_world_2014]
 Additionally, the Army's lack of ability to pay Soldier consistently
 leads to the decrease lethality and efficiency of the force.  The
@@ -96,6 +137,13 @@ has the longest coastline in the the Africa.  The strategic location
 along approaches to Bab el Mandeb and the routes through the red Sea
 and Suez canal are vital to world shipping.
 
+Salvation will likely come from two directions. The first may be the
+oil and gas sector. It has long been known that Somalia possesses
+important reserves, both in the north of the country and to the south
+off the shore of Kismayo. With al Shabaab in retreat, the more
+adventurous prospecting companies are already circling, bringing the
+promise of massive foreign investment and, eventually, Gulf-style oil
+wealth to this impoverished nation.[@fergusson_somalia:_2013]
 
 ..
    \bibliography{dummy, somalia.bib}

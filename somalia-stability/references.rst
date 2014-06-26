@@ -421,3 +421,175 @@ To Explore
 ----------
 
 TRADOC Culture Center
+
+
+
+
+The World's Most Dangerous Place: Inside the Outlaw State of Somalia
+--------------------------------------------------------------------
+James Fergusson
+
+The newcomer, a moderate Islamist with links to the Muslim
+Brotherhood, is admired for his perceived lack of corruption as well
+as for the fact that, unlike most educated Somalis, he did not flee
+Mogadishu during the civil war. His election was against all
+expectations. The incumbent, President Sheikh Sharif, was rumoured to
+have many supporters in the Gulf who had reportedly spent $7m in
+bribes in a bid to secure his re-election.1 It was the first genuine
+presidential poll in a generation, representing what the UN Special
+Envoy Augustine Mahiga called ‘an unprecedented opportunity for
+peace’.  LOCATION: 114
+
+First, the gains of 2011–12 are all perilously fragile, and could
+easily be reversed. The process of political reform was flawed from
+the start, with even the UN admitting that the clan elders had rigged
+the selection of the new parliament through bribery, intimidation and
+violence: a dispiriting case of plus ça change, in other words.
+LOCATION: 125
+
+The second reason is that Somalia’s underlying problems have still not
+been dealt with, and chief among these, I would argue, is the question
+of what to do with the country’s millions of young men.  LOCATION: 135
+
+‘The US does not have a robust and comprehensive strategy for
+targeting the connection between youth and conflict,’ Professor
+Jennifer Sciubba, a demographer and adviser to the US Department of
+Defence, said recently. ‘Victory, in whatever form, will remain
+elusive as long as this segment of the population is marginalized.’2
+LOCATION: 137
+
+The TFG is Somalia’s Transitional Federal Government, whose forces are
+supposed to be leading this war. Mugarura and the 9,000 other mostly
+Ugandan ‘peace enforcers’ who make up AMISOM, the UN-mandated African
+Union Mission in Somalia, are officially only here in a supporting
+role. The truth, of course, is that the foreigners are running the
+offensive – AMISOM versus Islamisom, as the local joke goes – because
+the TFG’s ‘army’ is actually an uncertain alliance of clan militias
+incapable of leading anything much. There have been stories of TFG
+troops deserting their posts, and of shooting at each other instead of
+at al-Shabaab. They are even suspected of selling the enemy their
+weapons and ammunition.  LOCATION: 230
+
+He is not exaggerating. AMISOM’s casualty rates are proportionally
+worse than anything experienced by Nato in Afghanistan. Over eight
+hundred of their soldiers have been killed since they first deployed
+in 2007, the severest test ever faced by the nine-year-old, 54-nation
+African Union which, as the continent’s answer to the EU, sanctioned
+the AMISOM mission.  LOCATION: 265
+
+Despite this, America remains almost pathologically afraid of ‘another
+Black Hawk Down’, a fear that has governed its thinking on the Horn of
+Africa ever since. ‘The United States does not plan, does not direct,
+and does not coordinate the military operations of the TFG, and we
+have not and will not be providing direct support for any potential
+military offensives,’ insisted Johnnie Carson, the State Department’s
+secretary for African affairs, in a speech in March 2010. ‘Further, we
+are not providing nor paying for military advisors for the TFG. There
+is no desire to Americanize the conflict in Somalia.’3 Paying for
+military advisors to AMISOM, however, was apparently a different
+matter. Black Hawk Down was the reason the Bancroft Hotel LOCATION:
+429
+
+It occurred to me that Museveni might understand, better than his
+critics, how much Uganda had to lose from the growth of Islamic
+extremism in the Horn. There are Muslim communities in every
+sub-Saharan country between Somalia and Mauritania, many of whom live
+as minorities with legitimate social grievances. AQIM, al-Qaida In the
+Maghreb, was active in Algeria, Mauritania and Niger. Ansar Dine, a
+militant Tuareg group thought to be linked to AQIM, was taking control
+of northern Mali. Another group, Boko Haram – ‘Books Forbidden’ or
+‘Western education is sinful’– was already terrorizing swathes of
+northern Nigeria. Did Museveni worry that such Islamist groups could
+link up in the future, and that Islamism, if left unchecked, could
+topple his country like a domino? He was not alone, if so.  LOCATION:
+552
+
+Medicine’s power to impress the locals was quickly demonstrated when
+al-Shabaab announced on the radio that anyone obtaining or even
+seeking treatment from the infidels would be considered
+‘unclean’. When this admonition was ignored, an edict was passed
+warning that anyone found in possession of an AMISOM medical form
+risked having their tongue cut out. The militants also occasionally
+tried to mortar the OPD. And yet by ten o’clock on the morning I
+visited, the open-sided shed lined with crude wooden benches that
+served as a reception area was already full to bursting. Al-Shabaab’s
+threats, or the risk of a lucky mortar strike, were no deterrent at
+all.  LOCATION: 630
+
+In 2011, according to the World Health Organization, nearly half of
+Somali victims of weapons-related injuries were children under the age
+of five. An entire generation of Somalis had grown up knowing that
+they could be violently killed, at random, at any time. Fatalism of
+the deepest, darkest kind was inevitable in such a place – and who
+knew what long-term effect that might have on a person’s mental
+well-being?  LOCATION: 650
+
+Somali society, though, had learned over the centuries to control the
+violence through the application of xeer, an ancient and highly
+developed system of customary law traditionally administered by the
+elders of the rival clans, who would sit down and negotiate a
+compromise in the event of major disputes. Somalia’s real troubles
+began in the late 1970s when Siad Barre began to exploit and
+exacerbate the old clan rivalries in order to maintain his grip on
+power – a classic instance of divide and rule – while simultaneously
+running down the xeer system in favour of scientific socialism. The
+old social contract was then further destroyed by years of terrible
+civil war.  LOCATION: 722
+
+I think it was Roosevelt who said that the security of a nation
+depends on ammunition in the short term, but that it is the economy
+that counts in the long run.’ LOCATION: 774
+
+I wasn’t the only one forced to shelter from the metal storm. First
+came the Minister of Information, Abdulkareem Jama, a clean-cut,
+bespectacled man with a strong American accent. He turned out to be
+from Falls Church, Virginia, and used to work as an IT manager for a
+small commercial publishing firm in Washington. Next to arrive was
+Mohamed Nur, the speckle-bearded mayor of Mogadishu, a returnee from
+north London.  LOCATION: 1312
+
+a notorious warlord called Mohamed Dheere, arrived in two armed trucks
+and opened fire. Four people were killed and sixteen wounded. ‘Dheere
+is just a thug – a cold man,’ Nur said bitterly. ‘He wants chaos – and
+he might even get away with it yet.’ Dheere, he explained, had been
+arrested and imprisoned, and was supposed to be tried by a military
+court for the attack, but the trial had been deferred following
+pressure through his Hawiye Abgaal clan. ‘My impression is that when
+someone invokes clan loyalty, they are very often working not in that
+clan’s interests but in their own . . . Dheere has been given special
+treatment in his cell. He even hired the chief prosecutor’s office to
+defend him! How is that possible? Don’t talk to me about an
+independent judiciary. There is none here.’ LOCATION: 1342
+
+The Taliban put great importance on getting their message across to an
+international audience, and were prepared to take considerable risks
+to do so. They understood that the continuation of Nato’s war depended
+on Western public approval ratings, and that the foreign media offered
+them their best opportunity to undermine these. Al-Shabaab, by
+contrast, usually just wanted to shoot the messenger. Their common
+assumption, almost a default position, was that all journalists – even
+local ones – were traitors and spies. Al-Shabaab knew, or thought they
+knew, that AMISOM had access to CIA surveillance technology, and were
+paranoid about being traced. This meant that there was no phone number
+a journalist could call to request an interview, no email address to
+write to, and of course no physical office to visit.  LOCATION: 1537
+
+illiteracy rate of over 60 per cent.  LOCATION: 1613
+
+Later that summer, in Puntland, I met a French criminologist called
+Daniel LaDouceur, an expert in youth gang culture who knew this
+deserters’ camp well. Gang membership, he explained, was a primitive
+survival tactic based on strength in numbers. With the collapse of
+central authority in 1991 and the breakdown of the clan system, Somali
+society had disintegrated further into a constellation of gangs, the
+continuing survival of which, he thought, presented the single
+greatest obstruction to Somalia’s civil reconstruction.  LOCATION:
+1765
+
+LaDouceur was piloting a UN-funded scheme called ‘Youth at Risk’ which
+aimed to take potential gangsters off the street by paying them to
+take lessons in citizenship, governance and the rule of law.
+LOCATION: 1772
+
+Jeffrey Gettleman, New York Times, 10 August 2011, ‘US Relies on
+Contractors in Somalia Conflict’ LOCATION: 5560
