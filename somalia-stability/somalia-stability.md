@@ -1,5 +1,8 @@
-Stability in Somalia
-====================
+---
+title: Stability in Somalia
+author: CPT Joe Schafer
+bibliography: somalia.bib
+---
 
 Stability and Somalia are words not often in close proximity.  Somalia
 was the most failed stated 2008-2013 and ranks seconds in
@@ -9,14 +12,14 @@ The three drivers of stability in Somalia are the political
 environment, the fledgling military and the physical environment.  The
 political environment stabilizes Somalia because the established
 central government after 14 years of anarchy.  The military is a
-stablizes Somalia by providing security under the African Union
+stabilizes Somalia by providing security under the African Union
 Mission in Somalia (AMISOM) and slowly defeating the terrorist group
-Al-Shabab.  The physical environment stablizes Somalia because of the
+Al-Shabab.  The physical environment stabilizes Somalia because of the
 abundant natural resources and because of its strategic location in
 the horn of Africa.
 
 
-## Politics ##
+<!-- Politics -->
 
 Political stability was achieved after a years of constant conflict
 and regime changes.  Though the newly formed XX govt of Somalia leads
@@ -30,106 +33,105 @@ include the United States.
 There are serious hindrances to a unified Somalia.  Somalia, the
 nation-state, is a loose concept that varies in the regions throughout
 the concept.  Somaliland and Puntland are semi-autonomous regions that
-ignore the whims of the central government.  Additionally, the
-political process has not yet reached the level of decorum expected in
-a modern state.
+ignore the whims of the central government.
 
-Fistfights frequently occured in the TFG Parliment parliament,
-ocassionaly escalating to full brawls.  [@heaton-12-somalia] The
-U.S. House of Representatives demonstrated similar behaviour in 1858,
-in which over 30 members engaged in hand-to-hand
-combat. [@ushouse-14-brawl]
+Additionally, the political process has not yet reached the level of
+decorum expected in a modern state. Fistfights frequently occurred in
+the TFG Parliament parliament, occasionally escalating to full brawls;
+in the last brawl, four representatives were admitted to the hospital
+with head injuries. [@heaton-12-somalia] The U.S. House of
+Representatives demonstrated similar behavior in 1858, in which over
+30 members engaged in hand-to-hand combat. [@ushouse-14-brawl]
+Accordingly, the Somali political process should be viewed as early in
+its lifetime.
 
+The recent presidential election highlights the advances of the Somali
+Government.  A university professor, Hassan Sheik Mohamud, usurped the
+incumbent, President Sheikh Sharif in spite the fact that Sharif spent
+$7 million in bribes to rig the election.
+[@fergusson-13-outlaw Location 114] President Mohamud was named to the
+Time 100 for his contributions against corruption and his role in
+stabilizing the war torn Somalia. [@kagame-13-time] President's
+Mohamud's role in greatly eased by al-Shabaab publicity missteps.
+From reporter James Fergusson, contrasting the techniques of the Taliban
+and al-Shabaab.
 
-The recent presedential election highlights the advances of the Somali
-Governement.  A university professor usurped the incumbent, President
-Sheikh Sharif despite the fact that Sharif spent $7 million in
-bribes. [@fergusson-13-outlaw Location 114]
+> "The Taliban put great importance on getting their message across to
+> an international audience, and were prepared to take considerable
+> risks to do so. They understood that the continuation of NATO’s war
+> depended on Western public approval ratings, and that the foreign
+> media offered them their best opportunity to undermine
+> these. Al-Shabaab, by contrast, usually just wanted to shoot the
+> messenger. Their common assumption, almost a default position, was
+> that all journalists – even local ones – were traitors and spies.
+> [...] This meant that there was no phone number a journalist could
+> call to request an interview, no email address to write to, and of
+> course no physical office to visit."
+> [@fergusson-13-outlaw, Location 1537]
 
-"The Taliban put great importance on getting their message across to
-an international audience , and were prepared to take considerable
-risks to do so. They understood that the continuation of Nato’s war
-depended on Western public approval ratings, and that the foreign
-media offered them their best opportunity to undermine
-these. Al-Shabaab, by contrast, usually just wanted to shoot the
-messenger. Their common assumption, almost a default position, was
-that all journalists – even local ones – were traitors and
-spies. Al-Shabaab knew, or thought they knew, that AMISOM had access
-to CIA surveillance technology, and were paranoid about being
-traced. This meant that there was no phone number a journalist could
-call to request an interview, no email address to write to, and of
-course no physical office to visit."
-[@fergusson-13-outlaw, Location 1537]
+The combination of al-Shabaab missteps and a relatively stable central
+government offers Somalia the best chance at stable peace in 20 years.
 
-Nevertheless, the Somali blend of governance seems to work and it
-matches the country that made it.  At least we're not overthrowing
-their shah.  Member of the African Union.
+<!-- Military -->
 
-# Military #
-
-The Somalia military is not such much the driver of stability, but the
-recent trans-national operations under AMISOM greatly contributed to
-the internal security of Somalia.
-
-"The African Union Mission in Somalia (AMISOM) is mandated to conduct
+The Somalia military by itself is not a driver of stability.  However,
+the recent transnational operations under AMISOM greatly contributed
+to the internal security of Somalia. "AMISOM is mandated to conduct
 Peace Support Operations in Somalia to stabilize the situation in the
 country in order to create conditions for the conduct of Humanitarian
-activities and an immediate take over by the United Nations (UN)."
+activities and an immediate take over by the United Nations."
 [@amisom-13-mandate]
 
-Under the 22,000 strong force, AMISOM drove Al-Shabab from Mogadishu
-and XXXX.
-
-Al-Shabaab, (the Mujahideen Youth Movement) is a terrorist
-organization under the umbrella of Al-Queda. "Al-Shabaab's primary
-objective is the creation of an Islamist state in Somalia,
-administered according to its radical interpretation of sharia
-(Islamic law)." [@janes-14-shabaab]
+AMISOM's main opponent is Al-Shabaab, translated as "The Youth".
+Al-Shabaab is a terrorist organization under the umbrella of
+Al-Queda. "Al-Shabaab's primary objective is the creation of an
+Islamist state in Somalia, administered according to its radical
+interpretation of sharia (Islamic law)." [@janes-14-shabaab]
+Under the 22,000 strong force, AMISOM drove Al-Shabaab from Mogadishu
 
 The Somalia people are ruthlessly pragmatic after 20 years of war,
-eschewing dogma for survival.  A civilian advisor working with AMISOM
+eschewing dogma for survival.  A civilian adviser working with AMISOM
 noted, "a lot of people I know who don't even pray are pretending to
 be part of that religious lifestyle so they can be accepted."
 [@heaton-12-somalia]
 
 The people noticed the winning record of AMISOM and have given their
 support.  The African Union Mission in Somalia (AMISOM) consists of
-Uganda, Burundian, Djibouti, Sierra Leone, and Kenya.
-
-In addition to military support, the healthcare services delivered by
-the AMISOM quickly won approval of the populations.  Despite threats
-from Al-Shabaab, and hours long queues, Somalias contined to recieve
-medical treatment.[@fergusson-13-outlaw, Location 630]
-
-
-The Somalia Army in and of itself lacks the capability to counter
-insurgencies.
-
-The truth, of course, is that the foreigners are running the offensive
-– AMISOM versus Islamisom, as the local joke goes – because the TFG’s
-‘army’ is actually an uncertain alliance of clan militias incapable of
-leading anything much. There have been stories of TFG troops deserting
-their posts, and of shooting at each other instead of at
-al-Shabaab. They are even suspected of selling the enemy their weapons
-and ammunition.  [@fergusson-13-outlaw Location 230]
+military personnel from Uganda, Burundian, Djibouti, Sierra Leone, and
+Kenya.  The external nations bear the brunt of fighting, due to the
+clan infighting in the Somali Army.  According to Fergusson, "the
+[Somali] 'army' is actually an uncertain alliance of clan militias
+incapable of leading anything much. There have been stories of
+[Somali] troops deserting their posts, and of shooting at each other
+instead of at al-Shabaab. They are even suspected of selling the enemy
+their weapons and ammunition."  [@fergusson-13-outlaw Location 230]
+The Somali Army infighting is compounded by pay problems. In one case
+the military went without pay for six months. [@janes-14-somali-army]
+The Somali Army's consistent inability to pay Soldier consistently leads to
+the decrease lethality and efficiency of the force.  The level of
+trust in the Somalia Army is perhaps best explained by their SOP for
+presidential review.  Soldier were disarmed for presidential
+election. [@janes-14-somali-army]
 
 Despite the talent difference between members of AMISOM, other African
 Union countries have a stake in the outcome of Somalia.  The rise of
-terrorist organizations in Africa continues at a startling rate,
-including AQIM, al-Quaida In the Maghreb, Boko Haram (Books Forbidden
-or Western education is sinful).  The AMISOM mission is an attempt to
-stem the flow of extreme Islamist idealogy into Africa.
-Frequent pay problems plague the military. In one case
-the military went without pay for six months. [@janes-14-somali-army]
-Additionally, the Army's lack of ability to pay Soldier consistently
-leads to the decrease lethality and efficiency of the force.  The
-level of trust in the Somalia Army is perhaps best explained by their
-SOP for presidential review.  Soldier were disarmed for presidential
-election. [@janes-14-somali-army] That said, AMISOM has proven
-capability of defeating Al-Shabab and regaining territory.  As long as
-AMISOM exists, the Somali Army will continue to drive stability.
+terrorist organizations in Africa continues at a startling rate.
+Al-Queda In the Maghreb operates in nearby XXX.  Boko Haram
+(translated as Western education is sinful) operates.  Both terrorist
+organizations are allied with al-Shabaab.  The AMISOM mission is an
+attempt to stem the flow of extreme Islamist ideology into Africa.
 
-# Physical Environment #
+In addition to military support, the health-care services delivered by
+the AMISOM quickly won approval of the populations.  Despite threats
+from Al-Shabaab, and hours long queues, Somalis continued to receive
+medical treatment, often traveling hundreds of kilometers.
+[@fergusson-13-outlaw, Location 630]
+
+AMISOM has proven capable of defeating Al-Shabab and regaining
+territory.  As long as AMISOM charter is renewed every six months, the
+Somali Army will continue to drive stability.
+
+<!-- Physical Environment -->
 
 The physical environment is a driver of stability because of the
 richness of natural resources and likelihood of oil within Somalia.  It
@@ -144,6 +146,19 @@ off the shore of Kismayo. With al Shabaab in retreat, the more
 adventurous prospecting companies are already circling, bringing the
 promise of massive foreign investment and, eventually, Gulf-style oil
 wealth to this impoverished nation." [@fergusson-13-independent]
+
+
+Bibliography
+------------
+
+<!-- pandoc-citeproc processes citations and inserts the completed -->
+<!-- text into the .tex file.  So, when using pandoc-citeproce, -->
+<!-- citations are included as part of the body. To prevent -->
+<!-- double-spacing our Bibliography, we need the raw latex command -->
+<!-- here.  Pandoc preserves raw latex commands.  Github issue filed: -->
+<!-- https://github.com/jgm/pandoc/issues/1376 -->
+
+\singlespacing
 
 <!--
    \bibliography{dummy, somalia.bib}
