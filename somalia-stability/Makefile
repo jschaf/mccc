@@ -1,10 +1,42 @@
 
 
 all:
+	pandoc				\
+	  --filter pandoc-citeproc	\
+	  --csl=turabian.csl		\
+	  --standalone			\
+	  --smart                       \
+	  -t native                     \
+	  --filter smallcaps.py    	\
+	  somalia-stability.md		\
+	|				\
+	pandoc				\
+	  -f native                     \
+	  --latex-engine=lualatex	\
+	  --template=template.tex	\
+	  --no-tex-ligatures            \
+	  --smart                       \
+	  -o ss.tex
+
+	lualatex ss.tex
+
+markdown:
 	pandoc --filter pandoc-citeproc \
 	--csl=turabian.csl \
 	--standalone \
-	--latex-engine=xelatex \
+	--filter ./smallcaps.py \
+	-o ss2.md \
+	somalia-stability.md
+
+
+
+tex:
+
+	pandoc --filter pandoc-citeproc \
+	--csl=turabian.csl \
+	--standalone \
 	--template=template.tex \
-	-o somalia-stability.pdf \
+	--filter ./smallcaps.py \
+	--from=markdown+yaml_metadata_block \
+	-o somalia-stability.tex \
 	somalia-stability.md
