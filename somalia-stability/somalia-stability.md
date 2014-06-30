@@ -56,7 +56,7 @@ against corruption and his role in stabilizing the war torn
 Somalia. [@kagame-13-time] President's Mohamud's success was greatly
 eased by al-Shabaab publicity missteps.  James Fergusson, an
 experienced reporter with time in Somalia and Afganistan, contrasted
-the techniques of the Taliban and al-Shabaab.
+the techniques of the Taliban and al-Shabaab:
 
 > "The Taliban put great importance on getting their message across to
 > an international audience, and were prepared to take considerable
@@ -139,7 +139,7 @@ The physical environment is a driver of stability because of the
 richness of natural resources and likelihood of oil within Somalia.  It
 has the longest coastline in the the Africa.  The strategic location
 along approaches to Bab el Mandeb and the routes through the red Sea
-and Suez canal are vital to world shipping.
+and Suez canal are vital to world shipping.  [@cia-14-somalia]
 
 "Salvation will likely come from two directions. The first may be the
 oil and gas sector. It has long been known that Somalia possesses
