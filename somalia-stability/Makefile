@@ -14,6 +14,7 @@ all:
 	  -f native                     \
 	  --latex-engine=lualatex	\
 	  --template=template.tex	\
+          --variable fontsize=12pt      \
 	  --no-tex-ligatures            \
 	  --smart                       \
 	  -o ss.tex
