@@ -34,14 +34,15 @@ a major oil maritime transit route.
 
 Political stability was achieved after two decades of continuous
 conflict and political changes.  Though the newly established Federal
-Republic of Somalia leads the world in corruption, the acceptance of
-the new government onto the world stage indicate that political
-stability will endure.[@transparency-13-corruption] With the
-ratification of the constitution in 2012, key international
-organizations, including the International Monetary Fund and the World
-Bank recognized Somalia's nascent government.  Additionally, several
-countries formally reopened diplomatic channels with Somalia, to
-include the United States. [@adan-13-new-african]
+Republic of Somalia leads the world in corporate and political
+corruption, the acceptance of the new government onto the world stage
+indicates that political stability will endure.
+[@transparency-13-corruption] With the ratification of the
+constitution in 2012, key international organizations, including the
+International Monetary Fund and the World Bank recognized Somalia's
+nascent government.  Additionally, several countries formally reopened
+diplomatic channels with Somalia, to include the United
+States. [@adan-13-new-african]
 
 The recent presidential election highlights the advances of the
 political processes.  A university professor, Hassan Sheik Mohamud,
@@ -51,7 +52,7 @@ spent $7 million in bribes to rig the election.
 presidency, Mohamud was named to the *Time 100: Most Influential
 People in the World 2013* for his contributions against corruption and
 his role in stabilizing the war torn Somalia. [@kagame-13-time]
-Presidents Mohamud's success was greatly eased by al-Shabaab publicity
+President Mohamud's success was greatly eased by al-Shabaab publicity
 missteps.  James Fergusson, an experienced reporter with time in
 Somalia and Afghanistan, contrasted the techniques of the Taliban and
 al-Shabaab:
@@ -94,9 +95,10 @@ descent into civil war in 1991.
 
 <!-- Military -->
 
-The Somalia military by itself is not a driver of stability.  However,
-the recent transnational operations under African Union Mission in
-Somalia (AMISOM) markedly increase the internal security of Somalia,
+The Somalia military by itself is not a driver of stability due to
+clan infighting and dismal levels of readiness.  However, the recent
+transnational operations under African Union Mission in Somalia
+(AMISOM) markedly increase the internal security of Somalia,
 subsequently increasing stability. "AMISOM is mandated to conduct
 Peace Support Operations in Somalia to stabilize the situation in the
 country in order to create conditions for the conduct of Humanitarian
@@ -104,8 +106,8 @@ activities and an immediate take over by the United Nations."
 [@amisom-13-mandate] AMISOM consists of military personnel and police
 forces from Uganda, Burundi, Djibouti, Sierra Leone, and
 Kenya. AMISOM's main adversary is al-Shabaab, translated as "The
-Youth", reflecting the young age of the initial members.  al-Shabaab is
-a terrorist organization operating under al-Queda. "al-Shabaab's
+Youth", reflecting the young age of the initial members.  al-Shabaab
+is a terrorist organization operating under al-Queda. "al-Shabaab's
 primary objective is the creation of an Islamist state in Somalia,
 administered according to its radical interpretation of sharia
 (Islamic law)." [@janes-14-shabaab] AMISOM, with a 22,000 strong
@@ -147,9 +149,9 @@ al-Shabaab yields space to the AMISOM offensive, the people have
 slowly pledged support for Somalia. In addition to military support,
 AMISOM provided health-care services quickly curried favor amongst
 locals.  Despite notices from al-Shabaab threatening the removal of
-participant's tongues for visiting the free clinics, Somalis continued
-to visit the clinic, often traveling distances in excess of 20
-kilometers.  [@fergusson-13-outlaw, Location 630]
+participant's tongues for utilizing the health-care services, Somalis
+continued to visit the clinics, often traveling distances in excess of
+20 kilometers.  [@fergusson-13-outlaw, Location 630]
 
 AMISOM has proven capable of defeating al-Shabaab and regaining lost
 territory.  As AMISOM advances, the legitimacy of the Somali
@@ -159,19 +161,19 @@ its partner forces will continue to drive stability.
 
 <!-- Physical Environment -->
 
-The physical environment stabilizes Somalia stability due to the
-richness of natural resources and likelihood of oil within Somalia.
-Natural resources attract foreign investment and spur economic
-growth. Somalia's strategic location along approaches to Bab el Mandeb
-and the routes through the red Sea and Suez canal are vital to world
-shipping.  [@cia-14-somalia]
+Somalia's physical environment stabalizes the region by attracting
+foregin investment for access to abundant natural resources and oil
+deposits.  Foreign investment spurs economic growth and increases
+stability.  Additionally, Somalia's strategic location along
+approaches to Bab el Mandeb and routes through the Red Sea and Suez
+Canal are vital to world shipping.  [@cia-14-somalia]
 
 The economic future of Somalia is speculative, but hopeful.  Somalia
 is still an agricultural society.  Agriculture contributes 59% of the
 GDP and employs 71% of the workforce.[@cia-14-somalia] However,
-Somalia ranks in the bottom 15% of countries for arable land,
-possessing only 1.7% of arable land.[@worldbank-2011-arable] The
-future of Somalia lies not in agriculture, but in oil.  Fergusson
+Somalia ranks in the bottom 15% of countries for arable land; only
+1.7% of total land was surveyed as arable.  [@worldbank-2011-arable]
+The future of Somalia lies not in agriculture, but in oil.  Fergusson
 notes that "Somalia possesses important [oil] reserves, both in the
 north of the country and to the south off the shore of Kismayo. With
 al-Shabaab in retreat, the more adventurous prospecting companies are
@@ -185,16 +187,17 @@ approximately 10% of all oil transported through oil transit
 chokepoints. [@energy-12-chokepoint]
 
 Somalia's political environment, military, and physical environment
-are interdependent. An increase in one factor will drive an increase
-in another.  As AMISOM maintains security and defeats al-Shabaab, the
-political legitimacy of Somalia increases.  As the political
-environment stabilizes, foreign investment in the physical environment
-spurs economic growth.  Inversely, Somalia can easily slide back into
-to civil war if al-Shabaab launches a successful counter-offensive, or
-if the government collapses due to clan political maneuvering.  The
-delicate balance between the political environment, the military and
-the physical environment offers Somalia the opportunity to rise from
-civil war into a major power on the African continent.
+are interdependent forces. An increase in one factor will drive an
+increase in another.  As AMISOM maintains security and defeats
+al-Shabaab, the political legitimacy of Somalia increases.  As the
+political environment stabilizes, foreign investment in the physical
+environment spurs economic growth.  Inversely, Somalia could easily
+slide back into to civil war if al-Shabaab launches a successful
+counter-offensive, or if the government collapses due to clan
+political maneuvering.  The delicate balance between the political
+environment, the military and the physical environment offers Somalia
+the opportunity to rise from civil war into a major power on the
+African continent.
 
 \newpage
 
