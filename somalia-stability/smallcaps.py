@@ -16,14 +16,14 @@ def small_caps(key, value, format, meta):
     if value[:min_length].isupper():
         # So we have 's or ’s (fancy apostrophe)
         if value[-2:] in [u"'s", u"’s"]:
-            return [SmallCaps([Str2(value[:-2].lower())]),
+            return [SmallCaps([Str2(value[:-2])]),
                     Str2(value[-2:])]
         # A pluralized acronym
         elif value[-1] == 's':
-            return [SmallCaps([Str2(value[:-1].lower())]),
+            return [SmallCaps([Str2(value[:-1])]),
                     Str2(value[-1])]
         else:
-            return SmallCaps([Str2(value.lower())])
+            return SmallCaps([Str2(value)])
 
 def replace_str2(key, value, format, meta):
     if key == 'Str2':

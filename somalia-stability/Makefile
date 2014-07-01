@@ -1,5 +1,4 @@
-
-
+OUTPUT = ss.pdf
 all:
 	pandoc				\
 	  --filter pandoc-citeproc	\
@@ -23,6 +22,7 @@ all:
 	  -o ss.tex
 
 	lualatex ss.tex
+
 
 markdown:
 	pandoc --filter pandoc-citeproc \

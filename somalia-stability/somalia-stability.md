@@ -9,7 +9,6 @@ date: 30 June 2014
 
 <!--
 TODO:
-  * fix color of link footnotes and urls when printed
   * scale parens around small caps
   * kerning of small caps after quotes
 -->
@@ -190,9 +189,9 @@ are interdependent. An increase in one factor will drive an increase
 in another.  As AMISOM maintains security and defeats al-Shabaab, the
 political legitimacy of Somalia increases.  As the political
 environment stabilizes, foreign investment in the physical environment
-spurs economic growth.  Inversely, Somalia can easily slide back to
-civil war if al-Shabaab launches a successful counter-offensive, or if
-the government collapses due to clan political maneuvering.  The
+spurs economic growth.  Inversely, Somalia can easily slide back into
+to civil war if al-Shabaab launches a successful counter-offensive, or
+if the government collapses due to clan political maneuvering.  The
 delicate balance between the political environment, the military and
 the physical environment offers Somalia the opportunity to rise from
 civil war into a major power on the African continent.

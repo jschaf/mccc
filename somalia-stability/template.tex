@@ -181,15 +181,15 @@ $endfor$
 \usepackage{sectsty}
 \allsectionsfont{\centering}
 \usepackage[margin=1in]{geometry}
-\setmainfont{Minion Pro}
+\setmainfont[SmallCapsFeatures={Letters=UppercaseSmallCaps, Scale=1.2}]{Minion Pro}
+\setmonofont{Consolas}
 \usepackage{setspace}
 \doublespacing
 
-\usepackage{scalefnt}
-% Make small-caps slightly bigger than the x-height
-\usepackage{letltxmacro}
-\LetLtxMacro{\oldtextsc}{\textsc}
-\renewcommand{\textsc}[1]{\oldtextsc{\scalefont{1.2}#1}}
+% Single spaced quote environment
+\expandafter\def\expandafter\quote\expandafter{\quote\small\singlespacing}
+
+
 % end custom adds
 
 \begin{document}
