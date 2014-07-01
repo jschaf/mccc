@@ -15,6 +15,9 @@ all:
 	  --latex-engine=lualatex	\
 	  --template=template.tex	\
           --variable fontsize=12pt      \
+          --variable linkcolor=black    \
+          --variable urlcolor=black     \
+          --variable citecolor=black    \
 	  --no-tex-ligatures            \
 	  --smart                       \
 	  -o ss.tex
