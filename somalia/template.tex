@@ -1,82 +1,29 @@
+% rubber: set engine lualatex
+% rubber: set program lualatex
 \documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
-$if(fontfamily)$
-\usepackage{$fontfamily$}
-$else$
-\usepackage{lmodern}
-$endif$
-$if(linestretch)$
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+% \setmainfont{TeX Gyre Termes}
+% \setsansfont{TeX Gyre Heros}
+\setmainfont[SmallCapsFeatures={Letters=UppercaseSmallCaps, Scale=1.2}]{Minion Pro}
+\setmonofont{Consolas}
+
 \usepackage{setspace}
-\setstretch{$linestretch$}
-$endif$
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-$if(euro)$
-  \usepackage{eurosym}
-$endif$
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-$if(mainfont)$
-    \setmainfont{$mainfont$}
-$endif$
-$if(sansfont)$
-    \setsansfont{$sansfont$}
-$endif$
-$if(monofont)$
-    \setmonofont[Mapping=tex-ansi]{$monofont$}
-$endif$
-$if(mathfont)$
-    \setmathfont(Digits,Latin,Greek){$mathfont$}
-$endif$
-\fi
+% \setmonofont[Mapping=tex-ansi]{$monofont$}
+
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 % use microtype if available
-\IfFileExists{microtype.sty}{\usepackage[]{microtype}}{}
+\usepackage[]{microtype}
 % activate={true,nocompatibility} - activate protrusion and expansion
 % final - enable microtype; use "draft" to disable
 % tracking=true, kerning=true, spacing=true - activate these techniques
 % factor=1100 - add 10% to the protrusion amount (default is 1000)
 % stretch=10, shrink=10 - reduce stretchability/shrinkability (default is 20/20)
-$if(geometry)$
-\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
-$endif$
-$if(natbib)$
-\usepackage{natbib}
-\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
-$endif$
-$if(biblatex)$
-\usepackage{biblatex}
-$if(biblio-files)$
-\bibliography{$biblio-files$}
-$endif$
-$endif$
-$if(listings)$
-\usepackage{listings}
-$endif$
-$if(lhs)$
-\lstnewenvironment{code}{\lstset{language=Haskell,basicstyle=\small\ttfamily}}{}
-$endif$
-$if(highlighting-macros)$
-$highlighting-macros$
-$endif$
-$if(verbatim-in-note)$
-\usepackage{fancyvrb}
-$endif$
-$if(tables)$
+
+\usepackage[margin=1in]{geometry}
+
 \usepackage{longtable,booktabs}
-$endif$
-$if(graphics)$
 \usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -86,7 +33,6 @@ $if(graphics)$
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-$endif$
 
 % allow urls to break on hyphens
 \PassOptionsToPackage{hyphens}{url}
@@ -117,24 +63,13 @@ $if(strikeout)$
 % avoid problems with \sout in headers with hyperref:
 \pdfstringdefDisableCommands{\renewcommand{\sout}{}}
 $endif$
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
+% \setlength{\parindent}{0pt}
+% \setlength{\parskip}{6pt plus 2pt minus 1pt}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 $if(numbersections)$
 \setcounter{secnumdepth}{5}
 $else$
 \setcounter{secnumdepth}{0}
-$endif$
-$if(verbatim-in-note)$
-\VerbatimFootnotes % allows verbatim text in footnotes
-$endif$
-$if(lang)$
-\ifxetex
-  \usepackage{polyglossia}
-  \setmainlanguage{$mainlang$}
-\else
-  \usepackage[$lang$]{babel}
-\fi
 $endif$
 
 $if(title)$
@@ -180,10 +115,6 @@ $endfor$
 \renewcommand\and{\\[\baselineskip]}
 \usepackage{sectsty}
 \allsectionsfont{\centering}
-\usepackage[margin=1in]{geometry}
-\setmainfont[SmallCapsFeatures={Letters=UppercaseSmallCaps, Scale=1.2}]{Minion Pro}
-\setmonofont{Consolas}
-\usepackage{setspace}
 \doublespacing
 
 % Single spaced quote environment

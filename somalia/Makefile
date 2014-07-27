@@ -1,4 +1,4 @@
-OUTPUT = ss.pdf
+INPUT = instability
 all:
 	pandoc				\
 	  --filter pandoc-citeproc	\
@@ -7,7 +7,7 @@ all:
 	  --smart                       \
 	  -t native                     \
 	  --filter smallcaps.py    	\
-	  somalia-stability.md		\
+	  $(INPUT).md		\
 	|				\
 	pandoc				\
 	  -f native                     \
@@ -19,28 +19,6 @@ all:
           --variable citecolor=black    \
 	  --no-tex-ligatures            \
 	  --smart                       \
-	  -o ss.tex
+	  -o $(INPUT).tex
 
-	lualatex ss.tex
-
-
-markdown:
-	pandoc --filter pandoc-citeproc \
-	--csl=turabian.csl \
-	--standalone \
-	--filter ./smallcaps.py \
-	-o ss2.md \
-	somalia-stability.md
-
-
-
-tex:
-
-	pandoc --filter pandoc-citeproc \
-	--csl=turabian.csl \
-	--standalone \
-	--template=template.tex \
-	--filter ./smallcaps.py \
-	--from=markdown+yaml_metadata_block \
-	-o somalia-stability.tex \
-	somalia-stability.md
+	rubber --into build --cache --warn all --pdf $(INPUT).tex
