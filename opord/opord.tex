@@ -1,0 +1,38 @@
+\documentclass[8pt]{article}
+\usepackage{fixltx2e}% provides \textsubscript
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+
+\setmainfont{TeX Gyre Heros}
+\usepackage[margin=.25in,top=.7in,landscape]{geometry}
+
+\usepackage[x11names]{xcolor}
+\usepackage{dcolumn}
+\usepackage{tabu}
+\usepackage{calc}
+\setlength{\parindent}{0em}
+\definecolor{light-gray}{gray}{0.5}
+\usepackage{layouts}
+
+\begin{document}
+\newlength{\exmatrowheight}
+\setlength{\exmatrowheight}{44pt}
+\taburulecolor{light-gray}
+\newtabulinestyle{graydashed=0.5pt on 4pt off 1pt}
+% \extrarowsep=\exmatrowheight
+\begin{tabu} to\linewidth{|X[0.5]|[1pt]X|X|X|X|X|X|X[1.5,p]}
+  \everyrow{\tabucline[0.5pt]{-7}}
+  \multicolumn{8}{l}{Time} \\
+  Higher  & \vspace{\exmatrowheight} &  &  &  &  &  & Critical Tasks \\
+  Enemy   & \vspace{\exmatrowheight} &  &  &  &  &  & Risk \\
+          & \vspace{\exmatrowheight} &  &  &  &  &  & OOM \\
+          & \vspace{\exmatrowheight} &  &  &  &  &  & WCS \\
+          & \vspace{\exmatrowheight} &  &  &  &  &  & HPT \\
+          & \vspace{\exmatrowheight} &  &  &  &  &  & Engagement Priorities\\
+          & \vspace{\exmatrowheight} &  &  &  &  &  & \\
+          & \vspace{\exmatrowheight} &  &  &  &  &  &  \\
+  Fires   & \vspace{\exmatrowheight} &  &  &  &  &  & CASEVAC \\
+  CAS/CCA & \vspace{\exmatrowheight} &  &  &  &  &  & Recovery/Resupply\\
+\end{tabu}
+
+\end{document}

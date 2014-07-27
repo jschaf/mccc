@@ -1,0 +1,2 @@
+all:
+	lualatex opord.tex
