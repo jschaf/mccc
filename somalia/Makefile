@@ -22,4 +22,4 @@ all:
 	  --smart                       \
 	  -o $(BUILDDIR)/$(INPUT).tex
 
-	rubber --into build --cache --warn all --pdf $(BUILDDIR)/$(INPUT).tex
+	rubber --into build --warn all --pdf $(BUILDDIR)/$(INPUT).tex
