@@ -37,15 +37,8 @@
 % allow urls to break on hyphens
 \PassOptionsToPackage{hyphens}{url}
 
-\ifxetex
-  \usepackage[setpagesize=false, % page size defined by xetex
-              unicode=false, % unicode breaks when used with xetex
-              xetex]{hyperref}
-\else
-  \usepackage[unicode=true]{hyperref}
-\fi
+\usepackage[unicode=true]{hyperref}
 \hypersetup{breaklinks=true,
-            bookmarks=true,
             pdfauthor={$author-meta$},
             pdftitle={$title-meta$},
             colorlinks=true,

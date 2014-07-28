@@ -1,4 +1,5 @@
 INPUT = instability
+BUILDDIR = build
 all:
 	pandoc				\
 	  --filter pandoc-citeproc	\
@@ -19,6 +20,6 @@ all:
           --variable citecolor=black    \
 	  --no-tex-ligatures            \
 	  --smart                       \
-	  -o $(INPUT).tex
+	  -o $(BUILDDIR)/$(INPUT).tex
 
-	rubber --into build --cache --warn all --pdf $(INPUT).tex
+	rubber --into build --cache --warn all --pdf $(BUILDDIR)/$(INPUT).tex

@@ -93,3 +93,4 @@ sympy-plots-for-*.tex/
 *.docx
 *.pdf
 auto
+/somalia/build/
