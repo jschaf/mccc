@@ -23,3 +23,15 @@ all:
 	  -o $(BUILDDIR)/$(INPUT).tex
 
 	rubber --into build --warn all --pdf $(BUILDDIR)/$(INPUT).tex
+
+
+
+docx:
+	pandoc				\
+	  --filter pandoc-citeproc	\
+	  --csl=turabian.csl		\
+	  --standalone			\
+	  --smart                       \
+	  --filter smallcaps.py    	\
+	  $(INPUT).md			\
+          -o instability.docx
