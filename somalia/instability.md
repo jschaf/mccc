@@ -17,15 +17,16 @@ Somalia's youth population is hardened by decades of war, scorned by
 limited economic opportunities and disadvantaged by failing
 infrastructure.  The drivers of instability in Somalia are the failing
 infrastructure and stagnant economy which work to exclude Somalia's
-large youth social group, defined as ages 14-29.  Somalia's
-nonexistent health and education infrastructure limit opportunities for
-the youth populace to escape conflict.  The economy is burdened with
-high unemployment and rampant inflation, and excludes youth from
-joining legitimate business enterprises.  Somali youth, comprising
-almost half the population, drive instability by turning their
-frustration against the government, threatening to replay the events
-of the Arab Spring.  The future of Somalia lies in their youth and
-Somalia is failing them.
+large youth social group, defined as ages 14-29.  Somalia's immature
+health and education infrastructure limit opportunities for the youth
+populace to mature into adulthood, providing easy recruits for local
+gangs and terrorist organizations.  The economy is burdened with high
+unemployment and rampant inflation, and excludes youth from joining
+legitimate business enterprises.  Somali youth, comprising almost half
+the population, drive instability by turning their frustration against
+the government, threatening to replay the events of the Arab Spring.
+The future of Somalia lies in their youth and Somalia is failing to
+apply foreign aid to improve human development.
 
 
 <!-- Infrastructure -->
@@ -33,43 +34,43 @@ Somalia is failing them.
 Somalia's health and education facilities are among the worst in the
 world.  Infant mortality is 108 deaths per 1000 births and child
 mortality is 178 deaths per 1000 children, ranking third highest in
-the world. [@cia-14-somalia] [@adbg-13-somalia] The lack of external
-aid exacerbates the problem.  Médecins Sans Frontières (MSF), known in
-North America as Doctors Without Borders, departed Somalia in August
-2013 after two workers were finally released after being held hostage
-for almost two years.  The incident was the breaking point amidst
-dozens of previous incidents.  Since MSF first arrived to Somalia in
-1991, 14 staff members were killed.  To protect their workers MSF
-hired armed guards, providing Somalia the solemn distinction of being
-the only country in which the MSF use armed guards. [@msf-13-closed]
-Assistance from MSF is desperately needed to prop up existing
-infrastructure. In 2012, "MSF teams provided more than 624,000 medical
-consultations, admitted 41,100 people to hospitals, helped deliver
-7,300 babies, immunized 58,000 people, and treated 30,000 malnourished
-children."  [@msf-13-closed]
+the world. [@cia-14-somalia] The lack of external aid exacerbates the
+problem.  Médecins Sans Frontières (MSF), known in North America as
+Doctors Without Borders, departed Somalia in August 2013 after two
+workers were finally released after being held hostage for almost two
+years.  The release was the breaking point amidst dozens of previous
+incidents.  Since MSF first arrived to Somalia in 1991, 14 staff
+members were killed.  To protect their workers MSF hired armed guards,
+providing Somalia the solemn distinction of being the only country in
+which the MSF used armed guards. [@msf-13-closed] Assistance from MSF
+is desperately needed to prop up existing infrastructure. In 2012,
+"MSF teams provided more than 624,000 medical consultations, admitted
+41,100 people to hospitals, helped deliver 7,300 babies, immunized
+58,000 people, and treated 30,000 malnourished children."
+[@msf-13-closed]
 
 <!-- So what about MSF -->
 
 Public education facilities collapsed in 1991 along with Siad Barre's
 Somali Democratic Republic.  Somalia has been slow to recover.  Only
 4.5 percent of Somali children attend secondary school.  The reasons
-for the low enrollment rate include the inability to pay private school
-fees (87.2 percent), marriage (49.5 percent), distance to the school
-(28.4 percent) and a familial requirement to work at home (27.5
+for the low enrollment rate include the inability to pay private
+school fees (87.2 percent), marriage (49.5 percent), distance to the
+school (28.4 percent) and a familial requirement to work at home (27.5
 percent). [@unesco-08-secondary] The lack of schooling limits economic
 prospects.  "Research on 100 countries from 1960 to 1995 showed that
 economic growth is directly related to achievements in secondary
-schooling." [@undp-12-development, 6] Somali children understand
-they have a right to universal education.  The gap between theory and
-practice creates resentment among youth.
+schooling." [@undp-12-development, 6] The inability to educate and
+harness human potential sows resentment among youth.
 
 The failings of Somali infrastructure deprive Somali youth of the
 opportunity to grow and transition into adulthood.  Somali youth are
-well aware of their right to education; 82 percent acknowledged their
-right to primary education and access to secondary
-school. [@undp-12-development, 53] The failings of Somali public
-education are painfully obvious to the youth population, increasing
-their frustration as they struggle to transition to adulthood.
+well aware of their right to education; a U.N. survey found that 82
+percent acknowledged their right to primary education and access to
+secondary school. [@undp-12-development, 53] The failings of Somali
+public education are painfully obvious to the youth population,
+increasing their frustration as they struggle to transition to
+adulthood.
 
 <!-- Economic -->
 
@@ -78,9 +79,16 @@ opportunity and employment.  Overall unemployment stands at 54 percent
 whereas youth unemployment is a staggering 67 percent.  The economy is
 dominated by the informal sector because 20 years of war have
 fragmented the country, making trade between regions difficult.
-[@adbg-13-somalia, 21] Continued violence compounds the problem by
-preventing the accurate measurement of economic statistics.
-Statistics which are necessary for planning by aid groups and private
+[@adbg-13-somalia, 21]
+
+The African Developmental Bank Group (ADBG) is a financial institution
+that promotes sustainable economic growth and s  reduce poverty in
+Africa.
+
+Continued violence compounds the problem by preventing the accurate
+measurement of economic statistics.
+and Statistics which are
+necessary for planning by aid groups and private
 investors. [@adbg-13-somalia, 2] The Somali Central Bank does not
 control the currency, cannot tax businesses and finances deficits
 through money printing.  The effect of the central banks management is
