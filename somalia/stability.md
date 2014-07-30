@@ -15,7 +15,7 @@ TODO:
 
 Stability and Somalia are words not often found in close proximity.
 Somalia ranked first on the list of the most failed states from
-2008–2013 and currently ranks second.  [@failed-states-14] Due to the
+2008–2013 and currently ranks second. [@failed-states-14]  Due to the
 volatility from two decades of civil war, any semblance of stability
 Somalia is emergent rather than established.  The political, military
 and the physical environments are the emergent drivers of stability in
