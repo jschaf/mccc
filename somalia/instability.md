@@ -13,21 +13,20 @@ TODO:
   * kerning of small caps after quotes
 -->
 
-Somalia's youth population is hardened by decades of war, scorned by
-limited economic opportunities and disadvantaged by failing
-infrastructure.  The drivers of instability in Somalia are the failing
-infrastructure and stagnant economy which work to exclude Somalia's
-large youth social group, defined as ages 14-29.  Somalia's immature
-health and education infrastructure limit opportunities for the youth
-populace to mature into adulthood, providing easy recruits for local
-gangs and terrorist organizations.  The economy is burdened with high
-unemployment and rampant inflation, and excludes youth from joining
-legitimate business enterprises.  Somali youth, comprising almost half
-the population, drive instability by turning their frustration against
-the government, threatening to replay the events of the Arab Spring.
-The future of Somalia lies in their youth and Somalia is failing to
-apply foreign aid to improve human development.
-
+The root cause of instability in Somalia is poor investment in human
+development.  The United Nations defines human development is
+equipping people with the "capabilities and opportunities they need to
+make choices to improve their lives" and Somali is ranked at 165 of
+170 countries in this regard. [@undp-12-development, *xviii*]  The
+drivers of this instability are a neglected health and education
+infrastructure, a weak economy and an excluded youth social group.
+The derelict infrastucture reduces human captial and increases the
+population's vunerability to recruiting efforts by extremist groups.
+The Government's weak control of the formal economy drives instability
+as rampant inflation decreases local purchasing power. The limited
+opportunites offered through education and the economy frustrate
+Somali youth and threaten to unravel recent improvements as youth
+struggle to mature into adulthood.
 
 <!-- Infrastructure -->
 
@@ -47,65 +46,93 @@ is desperately needed to prop up existing infrastructure. In 2012,
 "MSF teams provided more than 624,000 medical consultations, admitted
 41,100 people to hospitals, helped deliver 7,300 babies, immunized
 58,000 people, and treated 30,000 malnourished children."
-[@msf-13-closed]
+[@msf-13-closed]  The lack of medical care reduces human capital
+and increases population vunerability.
 
-<!-- So what about MSF -->
+A study by the RAND corporation researched Al-Queda terrorist
+recruitment techniques.  The research is applicable to Somalia because
+al-Shabaab, the major terrorist group in Somalia, operates as an
+affilate of al-Queda.  RAND found that al-Queda recruiters tailor
+messages to match their audience and environment. Al-Queda targets
+individuals with "a high level of current distress or dissatisfaction
+(emotional, physical, or both)" [@daly-06-recruitment, 85] The
+increased vunerability and distress caused by inadequate medical care
+leaves many Somalis susceptible to terrorist recruiting campaigns,
+decreasing internal security.
 
-Public education facilities collapsed in 1991 along with Siad Barre's
-Somali Democratic Republic.  Somalia has been slow to recover.  Only
-4.5 percent of Somali children attend secondary school.  The reasons
-for the low enrollment rate include the inability to pay private
-school fees (87.2 percent), marriage (49.5 percent), distance to the
-school (28.4 percent) and a familial requirement to work at home (27.5
-percent). [@unesco-08-secondary] The lack of schooling limits economic
-prospects.  "Research on 100 countries from 1960 to 1995 showed that
-economic growth is directly related to achievements in secondary
-schooling." [@undp-12-development, 6] The inability to educate and
-harness human potential sows resentment among youth.
+Education facilities collapsed in 1991 along with Siad Barre's Somali
+Democratic Republic because central taxation and public funding
+dissolved.  Somalia has been slow to recover.  Only 4.5 percent of
+Somali children attend secondary school.  The reasons for the low
+enrollment rate include the inability to pay private school fees (87.2
+percent), marriage (49.5 percent), distance to the school (28.4
+percent) and a familial requirement to work at home (27.5
+percent). [@unesco-08-secondary] The lack of schooling harms economic
+prospects.  A comprehensive report by the U.N. on 100 countries over
+35 years "showed that economic growth is directly related to
+achievements in secondary schooling."  [@undp-12-development, 6] The
+inability to educate and harness human potential sows resentment among
+youth.
 
 The failings of Somali infrastructure deprive Somali youth of the
 opportunity to grow and transition into adulthood.  Somali youth are
-well aware of their right to education; a U.N. survey found that 82
-percent acknowledged their right to primary education and access to
-secondary school. [@undp-12-development, 53] The failings of Somali
-public education are painfully obvious to the youth population,
-increasing their frustration as they struggle to transition to
-adulthood.
+well aware of the universal right to education.  The U.N. Universal
+Declaration of Human Rights states that "Everyone has the right to
+education. Education shall be free, at least in the elementary and
+fundamental stages." [@un-48-udhr, Article 26]  A 2012 U.N. survey
+found that 82 percent of Somalis knew that they had a right to primary
+education. [@undp-12-development, 53]  The U.N. human development
+report examined levels of youth frustration using factors such as
+"poor goverance and justice" and "no outlets to express aspiration and
+need".  The overall frustration index score was 3.96 of 5, where 5 is
+most frustrated.  The gap between the right to education and the
+current Somali implementation frustrates youth and
+blocks transition to adulthood.
 
 <!-- Economic -->
 
 The economy drives instability by excluding youth from business
-opportunity and employment.  Overall unemployment stands at 54 percent
-whereas youth unemployment is a staggering 67 percent.  The economy is
-dominated by the informal sector because 20 years of war have
-fragmented the country, making trade between regions difficult.
-[@adbg-13-somalia, 21]
+opportunity and employment. The African Developmental Bank Group
+(ADBG) is a financial institution that promotes economic and human
+development in Africa, financing over $4 billion to improvement
+projects in 2013 alone.[@adbg-14-about] A country brief by ADBG found
+that many of Somalia's financial difficulties are related to its
+nascent central banking system.  The Somali Central bank was
+reestablished in 2009 with a $2 million grant from ADBG.  Though
+Somalia established a number of historic firsts, including the first
+national budget in two decades, poor public finance management hinders
+human development.  The Somali Central Bank has not yet implemented
+monetary policy.  Until the Central Bank takes charge of monetary
+policy and implements a formal tax policy, inflation is expected to
+remain near 300 percent, and profitable businesses will operate
+untaxed.  The net result is a poor revenue base that leaves Somalia
+reliant on external aid to improve their infrastructure and business
+climate. [@adbg-13-somalia, 2, Annex 11 *xvi*]
 
-The African Developmental Bank Group (ADBG) is a financial institution
-that promotes sustainable economic growth and s  reduce poverty in
-Africa.
-
-Continued violence compounds the problem by preventing the accurate
-measurement of economic statistics.
-and Statistics which are
-necessary for planning by aid groups and private
-investors. [@adbg-13-somalia, 2] The Somali Central Bank does not
-control the currency, cannot tax businesses and finances deficits
-through money printing.  The effect of the central banks management is
-rampant inflation in the range of 300 percent and an inability to pay
-their own civil servants.  [@adbg-13-somalia, 3]
-
-A youth survey conducted by the United Nations measured the level of
-frustration and cited lack of employment as the greatest
-frustration. [@undp-12-development, *xx*] The cost of youth economic
-exclusion is well studied.  "The total cost of youth exclusion [...]
-can reach a staggering 17.4 percent of GDP in Egypt [$53 billion] and
-nearly 7.3 percent of GDP in Jordan [$1.5 billion]."  The cost of
-youth exclusion in Egypt is equivalent to the value of Egypt's
-agricultural sector. [@chaaban-08-exclusion, 18] As with education, the
-majority of Somali youth (71 percent) recognize their right to decent
-work.  The financial missteps of the Somali government exclude Somali
-youth from fulfilling their potential.
+One result of the lackluster business climate is a saturate job
+market.  The highest level of youth frustration in the U.N. human
+development report was lack of employment opportunities.  The
+frustration is understable as overall unemployment stands at 54
+percent and youth unemployment is a staggering 67 percent.
+[@undp-12-development, *xx*] The high unemployment rate blocks youth
+from reaching adult hold by excluding them from the labor market.  The
+cost of youth economic exclusion is well studied.  Dr. Chaaban, an
+economics professor at the American University of Beirut, showed that
+the cost of youth exclusion reached 17 percent of GDP in Egypt ($53
+billion) and 7 percent of GDP in Jordan ($1.5 billion).  The total
+value of Egypt's agricultural sector is equivalent to the cost of
+youth exclusion. [@chaaban-08-exclusion, 18]  Similar statistics are
+unavaivable for Somalia because the last reliable socio-economic
+survey was published in 2004.  Due to the dearth of statistics, ADBG
+notes that "it is almost impossible to undertake planning and
+programming work" or "monitor economic and social developments."
+[@adbg-13-somalia, Annex 4 *iv*] As with education, the 2012
+U.N. human development report survey show that the majority of Somali
+youth (71 percent) recognize that they have right to decent work as
+defined by the Universal Declaration of Human
+Rights. [@undp-12-development, 53]  The financial missteps of the
+Somali government exclude Somali youth from fulfilling their
+potential.
 
 <!-- Social -->
 
@@ -121,25 +148,18 @@ Somalia:
 > Somalis to join Al-Shabaab have also drawn them to join street
 > gangs. [@undp-12-development, 2]
 
-The root cause for many of the problems is Somalia's poor investment
-in human development.  Human development is equipping people with the
-"capabilities and opportunities they need to make choices to improve
-their lives."  Somalia’s Human Development Index is among the lowest
-in the world, ranked at 165 of 170
-countries. [@undp-12-development, *xviii*]
-
-"Over 70 percent of Somalis are under the age of 30; most face blocked
-transitions to adulthood due to multiple social, economic and
-political exclusions. These are related to clan and cultural
-affiliations, gender, age, illiteracy and poverty, among other
-factors. They have been reinforced by dominant social attitudes and
-prejudicial cultural practices, and perpetuated by violence. Exclusion
-limits capabilities and opportunities, and constricts the
-contributions of youth to peace building and development. It also
-dampens the natural energy and enthusiasm of youth, and systematically
-hinders their potential for positive advancement."
-[@undp-12-development, *xix*]
-
+The overarching problem faced by Somali youth is the difficult
+transition into adulthood.  As over 70 percent of Somalis are under
+the age of 30, the problem is a serious one.  The transition into
+adulthood is difficult because of "social, economic and political
+exclusions" that are related to "cultural affiliations, gender, age,
+illiteracy and poverty."  The exclusion diminishes the opportunites
+available to youth and increases their
+frustration. [@undp-12-development, *xix*]  The frustration opens
+youth up to terrorist recruting messages.  Al-Queda specifically
+targets "cultural disillusionment in a frustrated seeker (i.e.,
+unfulfilled idealism)" as a factor in
+recruitment. [@daly-06-recruitment, 85]
 
 <!-- Conclusion -->
 
