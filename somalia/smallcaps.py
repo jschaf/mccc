@@ -10,7 +10,7 @@ Str2 = elt('Str2', 1)
 
 def small_caps(key, value, format, meta):
     min_length = 4
-    if key != 'Str' or len(value) <= min_length:
+    if key != 'Str' or len(value) < min_length:
         return None
 
     if value[:min_length].isupper():
