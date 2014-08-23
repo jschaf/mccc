@@ -4,6 +4,9 @@
 Pandoc filter to convert all regular text to uppercase.
 Code, link URLs, etc. are not affected.
 """
+import os, sys
+sys.path.append(os.path.join(os.path.dirname(__file__), "lib"))
+
 from pandocfilters import *
 
 Str2 = elt('Str2', 1)
