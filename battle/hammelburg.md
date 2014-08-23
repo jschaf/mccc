@@ -53,8 +53,6 @@ support elements.  He specifically request TSGT Graham.  Because some
 other company was short on dudes he used Alpha and fuck-face
 company???
 
-TODO: Insert task org here
-
 ![Task Force Baum Task Org](../Hammelburg-Taskorg.pdf "Task Force Baum Task Organization")
 
 Abrams used his TODO companies to clear a route through Schweinhein
@@ -240,6 +238,8 @@ commander, Abrams, the Combat Command, Piles dude and finally, Baum
 questioned the rationale of using 300 troopers for a mission fraught
 with risks.  Patton claims he was persuaded by Bradley to uphold the
 small size, but the diaries of both generals conflict each other.
+
+Maj Stiller
 
 A raid is often a risky endeavour.  In the Hammelburg Raid, no attempt
 was made to mitigae the multiple risks to mission accomplishment.  In
