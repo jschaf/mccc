@@ -10,13 +10,17 @@ sys.path.append(os.path.join(os.path.dirname(__file__), "lib"))
 from pandocfilters import *
 
 Str2 = elt('Str2', 1)
+RANKS = ["PV1", "PV2", "PFC", "SPC", "SGT", "SSG", "SFC", "1SG", "MSG", "SGM",
+         "2LT", "1LT", "CPT", "MAJ", "LTC", "COL", "BG", "MG", "LTG", "GEN"
+     ]
+JOBS = ["S3", "XO", "CDR"]
 
 def small_caps(key, value, format, meta):
     min_length = 4
-    if key != 'Str' or len(value) < min_length:
+    if key != 'Str':
         return None
 
-    if value[:min_length].isupper():
+    if len(value) < min_length and value[:min_length].isupper():
         # So we have 's or ’s (fancy apostrophe)
         if value[-2:] in [u"'s", u"’s"]:
             return [SmallCaps([Str2(value[:-2])]),
@@ -27,6 +31,8 @@ def small_caps(key, value, format, meta):
                     Str2(value[-1])]
         else:
             return SmallCaps([Str2(value)])
+    elif value in JOBS or value in RANKS:
+        return SmallCaps([Str2(value)])
 
 def replace_str2(key, value, format, meta):
     if key == 'Str2':
