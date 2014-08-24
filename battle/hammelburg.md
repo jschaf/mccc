@@ -245,10 +245,9 @@ Bibliography
 \singlespacing
 
 <!--
-   \bibliography{dummy, somalia.bib}
+   \bibliography{dummy, battle.bib}
    Local Variables:
-   reftex-default-bibliography: ("somalia.bib")
-   zotero-collection: #("1" 0 1 (name "Somalia"))
+   reftex-default-bibliography: ("battle.bib")
    reftex-cite-format: ((?\C-m . "[@%l]"))
    End:
 -->
