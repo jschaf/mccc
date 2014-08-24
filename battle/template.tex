@@ -23,6 +23,9 @@
 
 \usepackage[margin=1in]{geometry}
 
+\usepackage{ifdraft}
+\ifdraft{\geometry{margin=1.5in}}
+
 \usepackage{longtable,booktabs}
 \usepackage{graphicx}
 \makeatletter
@@ -104,6 +107,9 @@ $endfor$
   \par
   \vskip 1.5em}
 \makeatother
+
+\usepackage[textsize=footnotesize,obeyDraft]{todonotes}
+\presetkeys{todonotes}{backgroundcolor=white}{}
 
 \renewcommand\and{\\[\baselineskip]}
 \usepackage{sectsty}
