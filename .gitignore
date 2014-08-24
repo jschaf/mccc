@@ -94,3 +94,4 @@ sympy-plots-for-*.tex/
 *.pdf
 auto
 /somalia/build/
+/battle/build/
