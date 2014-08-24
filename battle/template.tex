@@ -108,8 +108,12 @@ $endfor$
   \vskip 1.5em}
 \makeatother
 
-\usepackage[textsize=footnotesize,obeyDraft]{todonotes}
+\usepackage[textsize=footnotesize]{todonotes}
 \presetkeys{todonotes}{backgroundcolor=white}{}
+
+ \newcommand{\TODO}[2][]
+     {\todo[caption={#2}, #1]
+     {\begin{spacing}{0.5}#2\end{spacing}}}
 
 \renewcommand\and{\\[\baselineskip]}
 \usepackage{sectsty}

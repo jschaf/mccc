@@ -5,7 +5,7 @@ author:
   affiliation: Team 2, Seminar 3
 bibliography: battle.bib
 date: 21 August 14
-classoption: draft
+classoption:
 ...
 
 The raid on the prison camp Oflag XIII-B was audacious, fast and
@@ -23,12 +23,13 @@ north, crossing Rhine and entering the end game for WWII.  See Annex 1
 for an overview of forces.  During this push, Patton was within 60
 miles of Oflag XII-B, a German prison camp for offices.  Intelligence
 from the Red Army indicated that a large group of prisoners was
-recently transfered from \todo{original prison camp?} to Oflag XIII-B.
+recently transfered from \TODO{original prison camp?} to Oflag XIII-B.
 Among the group of prisoners was rumored to be LTC John Waters,
 Patton's son-in-law.  Patton wrote to his wife?, saying he was "close
 to John" and had to give it a college try.
 
-\missingfigure{Patton atlas}
+<!-- \missingfigure{Patton atlas} -->
+![Crossing of the Rhine: 22-28 March 1945](../allied-overview.pdf)
 
 Among Patton's divisions, the 4th Armored Division was Patton's
 favorite.  Patton gave the mission to Hoge, who protested at the
@@ -36,7 +37,7 @@ constraints imposed by Patton.  Patton, taking General of the Army
 (GA) Bradley's guidance, insisted that no more than 300 men take part
 in the operation.  Hoge assigned the mission to Combat Command B,
 commanded by LTC Creighton Abrams.  A combat command was a precursor
-to a combined arms brigade. Abrams assigned the mission to \todo{LTC
+to a combined arms brigade. Abrams assigned the mission to \TODO{LTC
 name?}.  Unfortunately, LTC fuck face had a fierce case of hemoroids.
 Upon close examination, Patton, who had seen many butts in his days in
 the horse calvary, exclaimed "what the fuck joe."  CPT Abe Baum his S3
@@ -55,9 +56,9 @@ support elements.  He specifically request TSGT Graham.  Because some
 other company was short on dudes he used Alpha and fuck-face
 company???
 
-![Task Force Baum Task Org](../Hammelburg-Taskorg.pdf "Task Force Baum Task Organization")
+![Task Force Baum Task Organization](../Hammelburg-Taskorg.pdf "Task Force Baum Task Organization")
 
-Abrams used his \todo{what companies used} companies to clear a route
+Abrams used his \TODO{what companies used} companies to clear a route
 through the town of Schweinhein for Task Force Baum.  The artillery
 barrage began at 2030.  The men suffered greatly, naming the town
 "bazooka city".  Impatient by the delay wrought by fierce German
@@ -66,8 +67,8 @@ from the front."  After a brief scouting mission, Task Force Baum rolled
 through Schweinheim, finally beginning their mission at 0030 on 27
 March.
 
-Berlin \todo{German Army HQ name?} was notified of the breach thirty
-minutes later at 0100 on 27 March.  Some nazi \todo{Obstfelder?}
+Berlin \TODO{German Army HQ name?} was notified of the breach thirty
+minutes later at 0100 on 27 March.  Some nazi \TODO{Obstfelder?}
 thought Patton had spotted the German weak point in their defense, so
 they directed two divisions to reinforce the breach.
 
@@ -80,7 +81,13 @@ done. They took their first casualty outside Lohr.  One Sherman was
 disabled from a Panzerfoust.  The crew scrambled to other vehicles and
 TF Baum continued.
 
-German General, Lotz told everything
+Baum's 53 vehicle convoy streched over a mile and crawled along at 15
+miles per hour due to black-out conditions.  They reached the town of
+Lohr at \TODO{time at Lohr}, \TODO{Obstfelder Rank} Obstfelder,
+commander of German's 19th Army stationed his headquarters at Lohr.
+Baum continued to his objective, unaware of the prize before him.
+
+\TODO{where pickup Lotz} German General, Lotz told everything
 
 Baum planned to cross the Sinn River at Gemünden.  After enetering the
 town they took heavy losses, losing 3TODO tanks to heavy fire.  Baum
@@ -214,12 +221,13 @@ against the *Wehrmact* and was doomed to not complete the mission.
 Audacity and suprise are often necessary for mission accomplishment
 but were not sufficient for Task Force Baum.
 
-\todo[inline]{scale parenthesis around small caps}
-\todo[inline]{kerning of small caps after quotes}
+\TODO[inline]{scale parenthesis around small caps}
+\TODO[inline]{kerning of small caps after quotes}
 
 \listoftodos
 
 \newpage
+
 Bibliography
 ============
 
