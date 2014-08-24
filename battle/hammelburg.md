@@ -5,48 +5,50 @@ author:
   affiliation: Team 2, Seminar 3
 bibliography: battle.bib
 date: 21 August 14
+classoption: draft
 ...
 
-<!--
-TODO:
-  * scale parenthesis around small caps
-  * kerning of small caps after quotes
--->
+The raid on the prison camp Oflag XIII-B was audacious, fast and
+doomed to failure.  The raid by Task Force Baum failed to liberate
+prisoners from Oflag XII-B on 26-27 March 1945 because the mission
+violated the characteristics of the offense, namely concentration and
+tempo.  The principle of concentration was violated because political
+influence force the mission to use a small task force of three
+companies.  The principle of tempo was violated because an unfocused
+mission did not narrow the scope of Baum's mission allowing Baum to
+deviate to subobjectives, costing valuable time.
 
-TF Baum failed to liberate prisoners from Oflag XII-B in the
-Hammelburg raid because the mission violated the characteristics of
-the offense, namely concentration and tempo.  The principle of
-concentration was violated because...  The principle of tempo was
-violated because an unfocused mission did not narrow the scope of
-Baum's mission.
+As LTG Patton liberated Bastogne, his 3rd Army contined the attack
+north, crossing Rhine and entering the end game for WWII.  See Annex 1
+for an overview of forces.  During this push, Patton was within 60
+miles of Oflag XII-B, a German prison camp for offices.  Intelligence
+from the Red Army indicated that a large group of prisoners was
+recently transfered from \todo{original prison camp?} to Oflag XIII-B.
+Among the group of prisoners was rumored to be LTC John Waters,
+Patton's son-in-law.  Patton wrote to his wife?, saying he was "close
+to John" and had to give it a college try.
 
-As Patton liberated Bastogne, his 3rd Army contined the attack north,
-crossing Rhine and entering the end game for WWII.  See Annex 1 for an
-overview of forces.  During this push, Patton was within 60 miles of
-Oflag XII-B, a German prison camp for offices.  Intelligence from the
-Red Army indicated that a large group of prisoners was recently
-transferedd from TODO to Oflag XII-B.  Among the group of prisoners
-was rumored to be John Waters, Patton's son-in-law.  Patton wrote to
-his wife?, saying he was "close to John" and had to give it a college
-try.
+\missingfigure{Patton atlas}
 
-Among Patton's divisions, the 4th Armored Division ranked as Patton's
+Among Patton's divisions, the 4th Armored Division was Patton's
 favorite.  Patton gave the mission to Hoge, who protested at the
-constraints imposed by Patton.  Patton, taking GEN Bradley's guidance,
-insisted that no more than 300 men take part in the operation.  Hoge
-assigned the mission to LTC Creighton Abrams and his Combat Command B
-which is equivalent to a combined arms brigade.  Abrams assigned the
-mission to TODO?.  Unfortunately, LTC fuck face had a fierce case of
-hemoroids.  Upon close examination, Patton, who had seen many butts in
-his days in the horse calvary, exclaimed "what the fuck joe."  CPT Abe
-Baum his S3 took the mission instead.  Baum received his orders at
-1700 on 26 March, 1945 and prepared to move out at midnight.
+constraints imposed by Patton.  Patton, taking General of the Army
+(GA) Bradley's guidance, insisted that no more than 300 men take part
+in the operation.  Hoge assigned the mission to Combat Command B,
+commanded by LTC Creighton Abrams.  A combat command was a precursor
+to a combined arms brigade. Abrams assigned the mission to \todo{LTC
+name?}.  Unfortunately, LTC fuck face had a fierce case of hemoroids.
+Upon close examination, Patton, who had seen many butts in his days in
+the horse calvary, exclaimed "what the fuck joe."  CPT Abe Baum his S3
+took the mission instead.  Baum received his orders at 1700 on 26
+March, 1945 and prepared to move out at midnight.
 
-The mission had some unusual aspects.  After the raid started, 3rd
-Army would continue north, leaving TF Baum in 7th Army's AO.
-Additionally, there was no reserve and dedicated air support was
-limited to one propeller plane to relay messages.  After 10 miles they
-would be out of range artillery.
+The mission was unusual in all regards.  Patton had never before
+liberated POW camps.  After the raid started, 3rd Army would continue
+north, leaving TF Baum in 7th Army's AO.  Additionally, there was no
+reserve and dedicated air support was limited to one propeller plane
+to relay messages.  The 60 miles to Oflag XIII-B would take Task Force
+Baum out of artillery range after 10 miles
 
 Baum quickly assembled his task force, hand-picking Companies and
 support elements.  He specifically request TSGT Graham.  Because some
@@ -55,94 +57,28 @@ company???
 
 ![Task Force Baum Task Org](../Hammelburg-Taskorg.pdf "Task Force Baum Task Organization")
 
-Abrams used his TODO companies to clear a route through Schweinhein
-for Task Force Baum.  The artillery barrage began at 2030.  The men
-suffered greatly, naming the town "bazooka city".  At 2330, Baum told
-his men "we'll leave when I return from the front."  After a brief
-scouting mission, TF Baum rolled through Schweinheim, finally
-beginning their mission at 0030 on 27 March.
+Abrams used his \todo{what companies used} companies to clear a route
+through the town of Schweinhein for Task Force Baum.  The artillery
+barrage began at 2030.  The men suffered greatly, naming the town
+"bazooka city".  Impatient by the delay wrought by fierce German
+resistance, at 2330, Baum told his men "we'll leave when I return
+from the front."  After a brief scouting mission, Task Force Baum rolled
+through Schweinheim, finally beginning their mission at 0030 on 27
+March.
 
-Berlin (german Army HQ name?) was notified of the breach thirty
-minutes later.  Some nazin thought Patton had spotted the German weak
-point in their defense, so they directed two divisions to reinforce
-the breach.
+Berlin \todo{German Army HQ name?} was notified of the breach thirty
+minutes later at 0100 on 27 March.  Some nazi \todo{Obstfelder?}
+thought Patton had spotted the German weak point in their defense, so
+they directed two divisions to reinforce the breach.
 
-Baum reached his first objective at 0230, reaching highway 26 at the
-town of Laufach.  Along the route, Baum directed his medium tanks to
-knock down the telephone poles.  Once the telephone poles were felled,
-Baum directed his infantry to dismount and cut the wires to ensure the
-job was done.
-
-Baum's convoy streched over a mile and traveled at 15 miles per hour
-due to black-out conditions.  They reached the town of Lohr at TODO?
-GENTODO Obstfelder, commander of German's 19th Army stationed his
-headquarters at Lohr.  Baum continued to his objective, unaware of the
-prize before him.  Along the route, Baum directed his medium tanks to
-knock down the telephone poles.  Once the telephone poles were felled,
-Baum directed his infantry to dismount and cut the wires to ensure the
-job was done.
-
-Baum's convoy streched over a mile and traveled at 15 miles per hour
-due to black-out conditions.  They reached the town of Lohr at TODO?
-GENTODO Obstfelder, commander of German's 19th Army stationed his
-headquarters at Lohr.  Baum continued to his objective, unaware of the
-prize before him.  Along the route, Baum directed his medium tanks to
-knock down the telephone poles.  Once the telephone poles were felled,
-Baum directed his infantry to dismount and cut the wires to ensure the
-job was done.
-
-Baum's convoy streched over a mile and traveled at 15 miles per hour
-due to black-out conditions.  They reached the town of Lohr at TODO?
-GENTODO Obstfelder, commander of German's 19th Army stationed his
-headquarters at Lohr.  Baum continued to his objective, unaware of the
-prize before him.  Along the route, Baum directed his medium tanks to
-knock down the telephone poles.  Once the telephone poles were felled,
-Baum directed his infantry to dismount and cut the wires to ensure the
-job was done.
-
-Baum's convoy streched over a mile and traveled at 15 miles per hour
-due to black-out conditions.  They reached the town of Lohr at TODO?
-GENTODO Obstfelder, commander of German's 19th Army stationed his
-headquarters at Lohr.  Baum continued to his objective, unaware of the
-prize before him.  Along the route, Baum directed his medium tanks to
-knock down the telephone poles.  Once the telephone poles were felled,
-Baum directed his infantry to dismount and cut the wires to ensure the
-job was done.
-
-Baum's convoy streched over a mile and traveled at 15 miles per hour
-due to black-out conditions.  They reached the town of Lohr at TODO?
-GENTODO Obstfelder, commander of German's 19th Army stationed his
-headquarters at Lohr.  Baum continued to his objective, unaware of the
-prize before him.  Along the route, Baum directed his medium tanks to
-knock down the telephone poles.  Once the telephone poles were felled,
-Baum directed his infantry to dismount and cut the wires to ensure the
-job was done.
-
-Baum's convoy streched over a mile and traveled at 15 miles per hour
-due to black-out conditions.  They reached the town of Lohr at TODO?
-GENTODO Obstfelder, commander of German's 19th Army stationed his
-headquarters at Lohr.  Baum continued to his objective, unaware of the
-prize before him.  Along the route, Baum directed his medium tanks to
-knock down the telephone poles.  Once the telephone poles were felled,
-Baum directed his infantry to dismount and cut the wires to ensure the
-job was done.
-
-Baum's convoy streched over a mile and traveled at 15 miles per hour
-due to black-out conditions.  They reached the town of Lohr at TODO?
-GENTODO Obstfelder, commander of German's 19th Army stationed his
-headquarters at Lohr.  Baum continued to his objective, unaware of the
-prize before him.  Along the route, Baum directed his medium tanks to
-knock down the telephone poles.  Once the telephone poles were felled,
-Baum directed his infantry to dismount and cut the wires to ensure the
-job was done.
-
-Baum's convoy streched over a mile and traveled at 15 miles per hour
-due to black-out conditions.  They reached the town of Lohr at TODO?
-GENTODO Obstfelder, commander of German's 19th Army stationed his
-headquarters at Lohr.  Baum continued to his objective, unaware of the
-prize before him.  They took their first casualty outside Lohr.  One
-Sherman was disabled from a Panzerfoust.  The crew scrambled to other
-vehicles and TF Baum continued.
+Baum reached his first objective at 0230, merging onto highway 26 near
+the town of Laufach.  Along the route, Baum directed his Sherman tanks
+to knock down the telephone poles to disrupt German communications.
+Unsatisfied that the felled telephone were inoperable, Baum directed
+his infantry to dismount and cut the wires to ensure the job was
+done. They took their first casualty outside Lohr.  One Sherman was
+disabled from a Panzerfoust.  The crew scrambled to other vehicles and
+TF Baum continued.
 
 German General, Lotz told everything
 
@@ -247,6 +183,8 @@ short the risks were; a small formation, no support from 3rd Army
 since it was moving North, they were operating in 7th Army's area of
 operations.
 
+Patton never freed POW camps, clausewitz guidance.
+
 No attempt was made to integrate Allied air power into the misison,
 which by March 1944 was completely dominant.  Task Force Baum passed
 out of artillery range after 10 miles, and so operated alone, unafraid
@@ -276,8 +214,12 @@ against the *Wehrmact* and was doomed to not complete the mission.
 Audacity and suprise are often necessary for mission accomplishment
 but were not sufficient for Task Force Baum.
 
-\newpage
+\todo[inline]{scale parenthesis around small caps}
+\todo[inline]{kerning of small caps after quotes}
 
+\listoftodos
+
+\newpage
 Bibliography
 ============
 
