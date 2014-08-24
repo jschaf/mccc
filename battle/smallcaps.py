@@ -5,6 +5,7 @@ Pandoc filter to convert all regular text to uppercase.
 Code, link URLs, etc. are not affected.
 """
 import os, sys
+import re
 sys.path.append(os.path.join(os.path.dirname(__file__), "lib"))
 
 from pandocfilters import *
@@ -14,6 +15,17 @@ RANKS = ["PV1", "PV2", "PFC", "SPC", "SGT", "SSG", "SFC", "1SG", "MSG", "SGM",
          "2LT", "1LT", "CPT", "MAJ", "LTC", "COL", "BG", "MG", "LTG", "GEN"
      ]
 JOBS = ["S3", "XO", "CDR"]
+
+def superscript(key, value, format, meta):
+    if key != 'Str':
+        return None
+
+    match = re.match(r"(\d+)(st|nd|rd|th)", value)
+    if match:
+        # print([Str(match.group(1)), Superscript(Str(match.group(2)))])
+        return [Str(match.group(1))
+                , Superscript([Str(match.group(2))])
+        ]
 
 def small_caps(key, value, format, meta):
     min_length = 4
@@ -50,5 +62,5 @@ if __name__ == "__main__":
         format = sys.argv[1]
     else:
         format = ""
-    altered = toJSONFilter_pure(doc, [small_caps, replace_str2], format)
+    altered = toJSONFilter_pure(doc, [small_caps, replace_str2, superscript], format)
     json.dump(altered, sys.stdout)
