@@ -38,4 +38,4 @@ builddir:
 	mkdir -p build
 
 update-bib:
-	curl http://localhost:23119/better-bibtex/collection?/0/SNIW7H7Q.biblatex > battle.bib
+	curl --silent --show-error http://localhost:23119/better-bibtex/collection?/0/SNIW7H7Q.biblatex > battle.bib
