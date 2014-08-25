@@ -37,7 +37,7 @@ constraints imposed by Patton.  Patton, taking General of the Army
 (GA) Bradley's guidance, insisted that no more than 300 men take part
 in the operation.  Hoge assigned the mission to Combat Command B,
 commanded by LTC Creighton
-Abrams. [@Baron.Baum.Goldhurst2009, page 14]  A combat command was a
+Abrams. [@BaronBG2009RaidUntold, 14]  A combat command was a
 precursor to a combined arms brigade. Abrams assigned the mission to
 \TODO{LTC name?}.  Unfortunately, LTC fuck face had a fierce case of
 hemoroids.  Upon close examination, Patton, who had seen many butts in
@@ -51,7 +51,7 @@ north, leaving TF Baum in 7th Army's AO.  Additionally, there was no
 reserve and dedicated air support was limited to one propeller plane
 to relay messages.  The 60 miles to Oflag XIII-B would take Task Force
 Baum out of artillery range after 10
-miles. [@Baron.Baum.Goldhurst2009, page 28]
+miles. [@BaronBG2009RaidUntold, 28]
 
 Baum quickly assembled his task force, hand-picking Companies and
 support elements from the 37th Tank Battalion and the 10th \TODO{what
@@ -82,7 +82,7 @@ to knock down the telephone poles to disrupt German communications.
 Unsatisfied that the felled telephone were inoperable, Baum directed
 his infantry to dismount and cut the wires to ensure the job was
 done. They took their first casualty outside Lohr.  One Sherman was
-disabled from a Panzerfoust. [@Baum1945, page 1] The crew scrambled to other vehicles and
+disabled from a Panzerfoust. [@Baum1945NotesTask, 1] The crew scrambled to other vehicles and
 TF Baum continued.
 
 Baum's 53 vehicle convoy streched over a mile and crawled along at 15
@@ -95,7 +95,7 @@ Baum continued to his objective, unaware of the prize before him.
 
 Baum planned to cross the Sinn River at Gemünden.  After enetering the
 town they took heavy losses, losing 3 tanks to heavy
-fire. [@Baum1945, page 1]  Baum returned to Langenprozelten to look
+fire. [@Baum1945NotesTask, 1]  Baum returned to Langenprozelten to look
 for another crossing in the North.  As soon as the convoy started, the
 lead tank knocked a German Soldier motorcyle rider off his bike.
 After tactical questioning, Baum discovered that the soldier was a
@@ -116,35 +116,36 @@ guarded by 200 Germans.  Upon liberation, one Russian immediately gave
 chase to one of the guards, tightly clenching a knife.  The Red Army
 soldiers found a nearby liquor warehouse to celebrate their good
 fortune.  Shortly after liberating the Russians, Baum noticed a German
-spotter plane near Weickersgruben at 1400. [@Baum1945, page 2]
-Get Lotz at Burgsinn relese at Grafendorf. [@KennethA.Koyen1946, page 193]
+spotter plane near Weickersgruben at 1400. [@Baum1945NotesTask page 2]
+Get Lotz at Burgsinn relese at Grafendorf. [@Kenne1946FourthArmored, 193][@Kenne1946FourthArmored, page 193]
 
 Koehl, a cool dude, recieved orders to move 20 miles and stop the
-convoy.  Koehl had 8 *jagermiester*, tank destroyers with the fierce
+convoy.  Koehl had 8 *Jagdpanthers*, tank destroyers with the fierce
 88mm flak gun on a Tiger tank chassis.  Baum's speed prevented any
 loss the first engagment.  Baum maneuvered his assault guns led by
 Graham to destory the Koehl's *jagermeister's*.  Once, Baum's convoy
 came into view they were crawling along, limited by \TODO{what
 limitation for Koehl ambush} Baum lost 1 Sherman, one light tank and 5
 half-tracks.  Critically, the half-tracks were carrying the extra fuel
-and ammunition the task force need to return to American lines. [@Baum1945, page 2]
+and ammunition the task force need to return to American lines. [@Baum1945NotesTask page 2]
 
 Baum took two hours disperse Koehl and the supporting infantry and
 reached the entrance of Oflag XII-B.  After a spurious defense, the
 Camp Commandant, GEN Fuck face, surrendered to his American POWs.  The
 liberated Americans sent a small contingent to meet TF Baum.  Among
 the group was LTC John Waters.  A German guard, unconvinced of the
-camp surrender, promptly shot LTC Waters, missing his spine by
-inches.  Task Force Baum continued into the camp, breaking down the
-gates at 1630.  1500 Americans quickly surrounded the convoy, vastly
-exceeding the 300 Baum was told to expect.[@Baum1945, page 1]
+camp surrender, promptly shot LTC Waters, missing his spine by inches.
+Task Force Baum continued into the camp, breaking down the gates
+at 1630.  1492 Americans quickly surrounded the convoy, vastly
+exceeding the 300 Baum was told to
+expect.[@Baum1945NotesTask page 1], [@MelteRoadsLiberation, 390]
 
 Baum broke the news that they didn't have room for all Americans.
 Dejected, all but 60 POWs would remain at the camp until their
 liberation 10 days later.  At 1830, Baum sent 1LT Nutto to find a
 route to Highway 27.
 
-Ran out of fuel [@Baum1945, page 3]
+Ran out of fuel [@Baum1945NotesTask page 3]
 
 \begin{landscape}
 \begin{figure}[htbp]
@@ -157,15 +158,17 @@ Ran out of fuel [@Baum1945, page 3]
 By this time, Obstfelder understood the situation and moved to trap
 Task Force Baum.  Using SS Anti-tank company and 100 Officer
 Candidates under command GEN?? Hoepple.  Hoepple set up blocking
-positions at Höllrich and Heßdorf.  After resupply Koehl's
-*jagermeister's* moved to destroy TF Baum.
+positions at Höllrich and Heßdorf with an SS cadet company, composed
+of veterans.  Hoepple moved the NCO tank company south of Bonnland to
+setup an ambush for Task Force Baum.  After
+resupply Koehl's *jagermeister's* moved to destroy TF Baum.
 
 1LT Nutto moved slowly towards Bonnland.  Upon seeing a roadblock,
 Nutto embarked north-west along a path to Heßdorf.  The eager OCS
 cadets, set off a text book ambush, wounding 1LT Nutto and destroying
 3 Shermans.  Nutto moved back to the main road and sent the report to
 CPT Baum.  Just before 2300, Baum moved the task force to linkup with Nutto's
-reconnaissance element. [@CPTSheldonL.Thompson1945, 15]
+reconnaissance element. [@Sheld1948OperationsTask, 15]
 
 Baum moved back to Höllrich and ran into the other road block, losing
 two tanks in the process.  Completely blocked, Baum moved the task
@@ -177,17 +180,18 @@ to Hill 427, Baum had just over 100 men, 3 light tanks, 4 Sherman
 tanks and 3 M4 Sherman assault guns and 15 halftracks.  While
 reorganinzing, Baum ordered the gas siphoned from 8 halftracks and
 then a thermite grenade placed in the fuel
-tank. [@CPTSheldonL.Thompson1945, page 18,19]
+tank. [@Sheld1948OperationsTask, 18,19]
 
 Unbeknownst to Baum, Hill 427 was a tank gunnery range for the
 Hoepple's anti-tank course.  During the night, Hoepple's OCS cadets
 moved within 50 meters of the American positions, supported by 5 Tiger
 tanks.  Koehl maneuvered his *jagermeister's* into postion.  At 0810,
-as Task Force Baum was preparing to depart, the ambush commenced.
-With Koehl's 8? *Jagermeister's*, the 5 Tiger tanks and the 40-70
-panzerfausts, the battle last only 25 minutes.  At 0835, Baum told the
-group to escape and evade in groups of three or four and make for
-American lines.  Only ?? made it back.
+as Task Force Baum was preparing to depart, the ambush
+commenced. [@Inge2002HammelburgRaid, 7]  With Koehl's 8?
+*Jagermeister's*, the 5 Tiger tanks and the 40-70 panzerfausts, the
+battle last only 25 minutes.  At 0835, Baum told the group to escape
+and evade in groups of three or four and make for American lines.
+Only ?? made it back.
 
 
 <!-- Analysis -->
@@ -215,10 +219,18 @@ operations.
 
 Patton never freed POW camps, clausewitz guidance.
 
+No sleep 100 hours at 0230[@Whiti200348Hours, 28]
+
+misleading motives
+Beatrice may get there [@Blume1996PattonPapers, 664]
+Hope to send expedition [@Blume1996PattonPapers, 665]
+directed eddy, reluctant fear of critisicm [@Blume1996PattonPapers, 665]
+Press conference [@Blume1996PattonPapers, 675]
+
 "However, as General Patton himself remarked, 'Never send a boy on a
 man's job, the larger the force and the more violence you use in the
 attack [...] the smaller will be your proportionate
-losses.'"[@CPTSheldonL.Thompson1945, page 22]
+losses.'" [@Sheld1948OperationsTask, 22]
 No attempt was made to integrate Allied air power into the misison,
 which by March 1944 was completely dominant.  Task Force Baum passed
 out of artillery range after 10 miles, and so operated alone, unafraid
@@ -236,7 +248,7 @@ unit as well as give it security.
 possible speed.
 16. Courage and leadership alone cannot insure (sp) the success of an
     operation.
-[@CPTSheldonL.Thompson1945, page 26,27]
+[@Sheld1948OperationsTask, page 26,27]
 
 Secondly, the Task Force did not maintain the sufficient tempo need to
 complete the raid while still operating within the safety net of
@@ -260,7 +272,7 @@ Obstfelder.   It was at this point that the battle
 was lost.  Baum lost any marked advantage against the *Wehrmact* and
 was doomed to not complete the mission.
 
-"Most confused state" [@KennethA.Koyen1946, page 205]
+"Most confused state" [@Kenne1946FourthArmored, page 205]
 
 Audacity and suprise are often necessary for mission accomplishment
 but were not sufficient for Task Force Baum.
