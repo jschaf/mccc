@@ -11,7 +11,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), "lib"))
 from pandocfilters import *
 
 Str2 = elt('Str2', 1)
-RANKS = ["PV1", "PV2", "PFC", "SPC", "SGT", "SSG", "SFC", "1SG", "MSG", "SGM",
+RANKS = ["PV1", "PV2", "PFC", "SPC", "TSGT", "SGT", "SSG", "SFC", "1SG", "MSG", "SGM",
          "2LT", "1LT", "CPT", "MAJ", "LTC", "COL", "BG", "MG", "LTG", "GEN", "GA"
      ]
 JOBS = ["S3", "XO", "CDR"]
