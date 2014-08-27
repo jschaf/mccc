@@ -28,11 +28,11 @@ def superscript(key, value, format, meta):
         ]
 
 def small_caps(key, value, format, meta):
-    min_length = 4
+    min_length = 3
     if key != 'Str':
         return None
 
-    if len(value) > min_length and value[:min_length].isupper():
+    if len(value) >= min_length and value[:min_length].isupper():
         # So we have 's or ’s (fancy apostrophe)
         if value[-2:] in [u"'s", u"’s"]:
             return [SmallCaps([Str2(value[:-2])]),

@@ -107,6 +107,13 @@ $endfor$
   \par
   \vskip 1.5em}
 \makeatother
+% http://tex.stackexchange.com/questions/149977/how-to-make-invisible-section-header-noticeable-in-the-toc
+\makeatletter
+\newcommand\invisiblesection[1]{%
+  \refstepcounter{section}%
+  \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
+  \sectionmark{#1}\phantom{}}
+\makeatother
 
 \usepackage[textsize=footnotesize]{todonotes}
 \presetkeys{todonotes}{backgroundcolor=white}{}
