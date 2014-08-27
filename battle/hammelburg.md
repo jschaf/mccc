@@ -147,28 +147,29 @@ team from Seventh Army bumped into the column as it moved North.  Baum
 enlisted their help, and after a few broadcasts, 200 Germans from the
 Gemünden defense promptly surrendered.  After the propaganda team left
 back towards friendly lines, the convoy's lead tank knocked a German
-rider off his motorcycles.  After a brief tactical questioning, Baum's
-interpreter, PFC Sotoloff discerened that the soldier deserted from
-the Eastern front to see his wife and newborn baby.  Baum took the
-time to draw his knife before gently asking the Paratrooper the
-location of the next bridge.  The Paratrooper quickly told of a bridge
-at Burgsinn.  The task force then moved out north.  The Paratrooper
-proved valuable, coaxing several squads of Germans from hiding,
-exclaiming the "American's are here".  Sotoloff, Baum's American
-translator helpfully provided that it's better to surrender to
-Americans than Russians.
+rider off his motorcycles. [@Green1994HammelburgRaid, 17]  After a
+brief tactical questioning, Baum's interpreter, PFC Sotoloff
+discerened that the soldier was a paratrooper and deserted from the
+Eastern front to see his wife and newborn baby.  Baum took the time to
+draw his knife before gently asking the paratrooper the location of
+the next bridge.  The paratrooper quickly told of a bridge at Burgsinn
+prompting Baum to contine north.  The paratrooper proved valuable,
+coaxing several squads of Germans from hiding, exclaiming the
+"American's are here".  Sotoloff helpfully added "It's better to
+surrender to Americans than Russians."
+[@BaronBG2009RaidUntold, 134-137]
 
-\TODO{where pickup Lotz} German General, Lotz told everything
-
-Task Force made quick progress towards Burgsinn, crossing the Sinn
-River and continuing East to Gräfendorf, arriving just before 1300.
-Upon cresting a hill, the task force stumbled upon 700 Russian POWs
-guarded by 200 Germans.  Upon liberation, one Russian immediately gave
-chase to one of the guards, tightly clenching a knife.  The Red Army
-soldiers found a nearby liquor warehouse to celebrate their good
-fortune.  Shortly after liberating the Russians, Baum noticed a German
-spotter plane near Weickersgruben at 1400. [@Baum1945NotesTask page 2]
-Get Lotz at Burgsinn release at Gräfendorf. [@Koyen1946FourthArmored, 193]
+Just before crossing the Sinn River, the task force captured
+*Schutzstaffel* (SS) General Lotz.  Baum lashed Lotz to the hood of
+half-track as a field expedient bullet shield and as Green helpfully
+noted, a law of war violation.[@Green1994HammelburgRaid, 18] Lotz did
+not ride with the column for long.  The convoy made rapid progress to
+Gräfendorf, arriving just before 1300.  The task force stumbled upon
+700 Russian POWs guarded by 200 Germans.  The Red Army soldiers found
+a nearby liquor warehouse to celebrate their good fortune.  Shortly
+after liberating the Russians, Baum noticed a German spotter plane
+near Weickersgruben at 1400. [@Baum1945NotesTask page 2]  Get Lotz at
+Burgsinn release at Gräfendorf. [@Koyen1946FourthArmored, 193]
 
 Koehl, a cool dude, received orders to move 20 miles and stop the
 convoy.  Koehl had 8 *Jagdpanthers*, tank destroyers with the fierce
