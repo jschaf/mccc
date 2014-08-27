@@ -6,7 +6,8 @@ author:
 bibliography: battle.bib
 date: 28 August 2014
 classoption:
-nocite:
+nocite: |
+    @Gries2001WestPoint
 ...
 
 The raid on the prison camp *Oflag XIII* was audacious, fast and
@@ -165,22 +166,30 @@ half-track as a field expedient bullet shield and as Green helpfully
 noted, a law of war violation.[@Green1994HammelburgRaid, 18] Lotz did
 not ride with the column for long.  The convoy made rapid progress to
 Gräfendorf, arriving just before 1300.  The task force stumbled upon
-700 Russian POWs guarded by 200 Germans.  The Red Army soldiers found
-a nearby liquor warehouse to celebrate their good fortune.  Shortly
-after liberating the Russians, Baum noticed a German spotter plane
-near Weickersgruben at 1400. [@Baum1945NotesTask page 2]  Get Lotz at
-Burgsinn release at Gräfendorf. [@Koyen1946FourthArmored, 193]
+700 Russian POWs guarded by 200 Germans.  Baum liberated the Red Army
+soldiers who quickly found a nearby liquor warehouse to celebrate
+their good fortune.  Shortly afterwards, Baum noticed a German spotter
+plane near Weickersgruben at 1400.  Determined fire forced the plane
+away, but not before the pilot reported the composition and
+disposition of the task force to Obstfelder.
+[@Baum1945NotesTask page 2] After his release, Lotz quickly regained
+control amidst the chaos of the Russian POWs and promptly told
+Obstfelder of Baum's objective, which he had
+overheard. [@Koyen1946FourthArmored, 193]
 
-Koehl, a cool dude, received orders to move 20 miles and stop the
-convoy.  Koehl had 8 *Jagdpanthers*, tank destroyers with the fierce
-88mm flak gun on a Tiger tank chassis.  Baum's speed prevented any
-loss the first engagement.  Baum maneuvered his assault guns led by
-Graham to destroy the Koehl's *jagermeister's*.  Once, Baum's convoy
-came into view they were crawling along, limited by \TODO{what
-limitation for Koehl ambush} Baum lost 1 Sherman, one light tank and 5
-half-tracks.  Critically, the half-tracks were carrying the extra fuel
-and ammunition the task force need to return to American
-lines. [@Baum1945NotesTask page 2]
+Obstfelder immediately notifed the *Oflag XIII* commander, Major
+General Goeckel and the Hammelburg area commander, COL Hoepple.
+Unfortunately for Baum, a German *panzerjäger* (tank destroyer)
+company commanded by *Hauptmann* (captain) Koehl, sat in ambush near
+Hammelburg, having been alerted about an American break-through.
+Koehl had 8 *panzerjäger's* equipped with an 88mm flak gun mounted on
+a Tiger tank chassis. [@Robel2000PattonsHammelburg, 28-29]  With the
+element of suprise, Koehl destroyed 1 Sherman, one light tank and 5
+half-tracks.  Baum returned fire destroying three *panzerjäger's*
+before Koehl withdrew.  Critically, the destroyed half-tracks were
+carrying the extra fuel and ammunition the task force need to return
+to American lines. Additionally, the fight took two and half hours,
+time that Buam would need. [@Baum1945NotesTask, 2]
 
 Baum took two hours disperse Koehl and the supporting infantry and
 reached the entrance of *Oflag XIII*.  After a spurious defense, the
