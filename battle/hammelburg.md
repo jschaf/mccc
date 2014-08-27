@@ -67,22 +67,23 @@ later. [@Jan1945Diary, 1]
 
 The mission was unusual in many regards.  Patton had never before
 liberated POW camps.  The precise location of the camp was unknown.
-After the raid started, Third Army would continue north, leaving Task Force Baum
-in Seventh Army's area of operations.  Additionally, there was no reserve
-and dedicated air support was limited to one propeller plane to relay
-radio messages.  The 60 miles to *Oflag XIII* would take Task Force
-Baum out of artillery range after 10
+After the raid started, Third Army would continue north, leaving Task
+Force Baum in Seventh Army's area of operations.  Additionally, there
+was no reserve and dedicated air support was limited to one propeller
+plane to relay radio messages.  The 60 miles to *Oflag XIII* would
+take Task Force Baum out of artillery range after 10
 miles. [@BaronBG2009RaidUntold, 22,28]
 
 Baum quickly assembled his task force, hand-picking Companies and
 support elements from the 37th Tank Battalion and the 10th Armored
 Infantry Battalion of Combat Command B.  The final composition of Task
 Force Baum was 11 officers, 283 men, and 53 vehicles.  From the 10th
-Armored Infantry Battalion, Baum had Alpha Company under command of CPT Lange and a
-reconnaissance section under command of 2LT Hoeffner.  From the 37th
-Tank Battalion, Baum received Charlie Company under command of 2LT
-Nutto, a platoon from Delta Company under the command of 2LT Weaver
-and a platoon of tank destroyers under command of TSGT Graham.
+Armored Infantry Battalion, Baum had Alpha Company under command of
+CPT Lange and a reconnaissance section under command of 2LT Hoeffner.
+From the 37th Tank Battalion, Baum received Charlie Company under
+command of 2LT Nutto, a platoon from Delta Company under the command
+of 2LT Weaver and a platoon of tank destroyers under command of TSGT
+Graham.
 
 \begin{figure}[htbp]
 \centering
@@ -95,13 +96,12 @@ Assessment \& Lessons Learned,” \emph{Command}, no. 54 (November
   the Beach to Bavaria}, 2\textsuperscript{nd} ed. (Munich, Germany:
   Herder Druck, 1946), 33;}
 
-Abrams used his \TODO{what companies used} companies to clear a route
-through the town of Schweinheim for Task Force Baum.  The artillery
-barrage began at 2030.  The men suffered greatly, naming the town
-"bazooka city".  Impatient by the delay wrought by fierce German
-resistance, at 2330, Baum told his men "we'll leave when I return
-from the front."  After a brief scouting mission, Task Force Baum rolled
-through Schweinheim, finally beginning their mission at 0000 on 27
+Abrams used his two companies clear a route through the town of
+Schweinheim for Task Force Baum.  The artillery barrage began at 2030.
+Impatient by the delay wrought by fierce German resistance, at 2330,
+Baum told his men "we'll leave when I return from the front."  After a
+brief scouting mission, Task Force Baum rolled through Schweinheim,
+finally beginning their mission at 0000 on 27
 March.[@BaronBG2009RaidUntold, 54]
 
 The Oberkommando der Wehrmacht (OKW), German High Command, was
@@ -141,7 +141,7 @@ effective fire.  In the span of minutes, three tanks were destroyed
 and several infantrymen succumbed to the heavy
 fire. [@Baum1945NotesTask, 1]  Two men made it across the bridge
 prompting the Germans to blow the bridge.  With no way forward, Baum
-began the precarious task of withdrawling an amored formation under
+began the precarious task of withdrawing an armored formation under
 fire.  Baum returned to Langenprozelten and started North to find
 another crossing .  Fortune returned to Baum as a wayward propaganda
 team from Seventh Army bumped into the column as it moved North.  Baum
@@ -150,11 +150,11 @@ Gemünden defense promptly surrendered.  After the propaganda team left
 back towards friendly lines, the convoy's lead tank knocked a German
 rider off his motorcycles. [@Green1994HammelburgRaid, 17]  After a
 brief tactical questioning, Baum's interpreter, PFC Sotoloff
-discerened that the soldier was a paratrooper and deserted from the
+discerned that the soldier was a paratrooper and deserted from the
 Eastern front to see his wife and newborn baby.  Baum took the time to
 draw his knife before gently asking the paratrooper the location of
 the next bridge.  The paratrooper quickly told of a bridge at Burgsinn
-prompting Baum to contine north.  The paratrooper proved valuable,
+prompting Baum to continue north.  The paratrooper proved valuable,
 coaxing several squads of Germans from hiding, exclaiming the
 "American's are here".  Sotoloff helpfully added "It's better to
 surrender to Americans than Russians."
@@ -177,140 +177,134 @@ control amidst the chaos of the Russian POWs and promptly told
 Obstfelder of Baum's objective, which he had
 overheard. [@Koyen1946FourthArmored, 193]
 
-Obstfelder immediately notifed the *Oflag XIII* commander, Major
+Obstfelder immediately notified the *Oflag XIII* commander, Major
 General Goeckel and the Hammelburg area commander, COL Hoepple.
 Unfortunately for Baum, a German *panzerjäger* (tank destroyer)
 company commanded by *Hauptmann* (captain) Koehl, sat in ambush near
 Hammelburg, having been alerted about an American break-through.
 Koehl had 8 *panzerjäger's* equipped with an 88mm flak gun mounted on
 a Tiger tank chassis. [@Robel2000PattonsHammelburg, 28-29]  With the
-element of suprise, Koehl destroyed 1 Sherman, one light tank and 5
+element of surprise, Koehl destroyed 1 Sherman, one light tank and 5
 half-tracks.  Baum returned fire destroying three *panzerjäger's*
 before Koehl withdrew.  Critically, the destroyed half-tracks were
 carrying the extra fuel and ammunition the task force need to return
-to American lines. Additionally, the fight took two and half hours,
-time that Buam would need. [@Baum1945NotesTask, 2]
+to American lines. Additionally, the fight took two hours,
+time that Baum would need. [@Baum1945NotesTask, 2]
 
 Baum took two hours disperse Koehl and the supporting infantry and
-reached the entrance of *Oflag XIII*.  After a spurious defense, the
-Camp Commandant, Generalmajor von Goeckel, surrendered to his American POWs.  The
-liberated Americans sent a small contingent to meet Task Force Baum.  Among
-the group was LTC John Waters.  A German guard, unconvinced of the
-camp surrender, promptly shot LTC Waters, missing his spine by inches.
-Task Force Baum continued into the camp, breaking down the gates
-at 1630.  1492 Americans quickly surrounded the convoy, vastly
-exceeding the 300 Baum was told to
-expect.[@Baum1945NotesTask page 1], [@MelteRoadsLiberation, 390]
+reached the entrance of *Oflag XIII*.  After a cursory defense, the
+Camp Commandant, Generalmajor von Goeckel, surrendered to his American
+POWs.  The liberated Americans sent a small contingent to meet Task
+Force Baum.  Among the group was LTC John Waters.  A German guard,
+unconvinced of the camp surrender, promptly shot LTC Waters, missing
+his spine by inches.  Task Force Baum continued into the camp,
+breaking down the gates at 1630.  1492 Americans quickly surrounded
+the convoy, vastly exceeding the 300 Baum was told to
+expect.[@MelteRoadsLiberation, 390]
 
 Baum broke the news that they didn't have room for all Americans.
-Dejected, all but 60 POWs would remain at the camp until their
+Dejected, all but 57 POWs would remain at the camp until their
 liberation 10 days later.  At 1830, Baum sent 1LT Nutto to find a
 route to Highway 27.
 
 Ran out of fuel [@Baum1945NotesTask, 3]
 
-<!-- \begin{landscape} -->
-<!-- \begin{figure}[htbp] -->
-<!-- \centering -->
-<!-- \includegraphics{../hammelburg-overview.pdf} -->
-<!-- \caption{Task Force Hammelburg Raid Mission Overview} -->
-<!-- \end{figure} -->
-<!-- \end{landscape} -->
+\begin{landscape}
+\begin{figure}[htbp]
+\centering
+\includegraphics{../hammelburg-overview.pdf}
+\caption{Task Force Hammelburg Raid Mission Overview}
+\end{figure}
+\end{landscape}
 
-By this time, Obstfelder understood the situation and moved to trap
-Task Force Baum.  Using SS Anti-tank company and 100 Officer
-Candidates under command GEN?? Hoepple.  Hoepple set up blocking
-positions at Höllrich and Heßdorf with an SS cadet company, composed
-of veterans.  Hoepple moved the NCO tank company south of Bonnland to
-setup an ambush for Task Force Baum.  After
-resupply Koehl's *jagermeister's* moved to destroy Task Force Baum.
+<!-- \footnotetext{Map created with physical feature data from -->
+<!-- \href{http://download.geofabrik.de/europe/germany.html}; TODO: cite Baum} -->
 
-1LT Nutto moved slowly towards Bonnland.  Upon seeing a roadblock,
-Nutto embarked north-west along a path to Heßdorf.  The eager OCS
-cadets, set off a text book ambush, wounding 1LT Nutto and destroying
-3 Sherman tanks.  Nutto moved back to the main road and sent the report to
-CPT Baum.  Just before 2300, Baum moved the task force to linkup with Nutto's
-reconnaissance element. [@Thomp1948OperationsTask, 15]
+As Baum wrestled with the logistics of transportation, Hoepple
+arranged his trap.  Hoepple commanded a training area for replacement
+troops.  Under his command, Hoepple had three classes, a company of
+anti-tank NCOs, 300 SS officer cadets, and a platoon-size engineer
+class.  Hoepple position the NCO anti-tank class south of Bonnland.
+The SS officer cadets established blocking positions at Heßdorf and
+Höllrich, reinforced by the recent arrival of five tiger
+tanks. [@Robel2000PattonsHammelburg, 30-31]  The engineer class linked
+up with Koehl's *panzerjäger's* and moved south of Lager Hammelburg.
+A German assault gun battalion moved south of Hill 427 to setup an
+overwatch position. [@Green1994HammelburgRaid, 26]
 
-Baum moved back to Höllrich and ran into the other road block, losing
-two tanks in the process.  Completely blocked, Baum moved the task
-force to Hill 427 for the night.  CPT Sheldon Thompson, a liberated
-POW from *Oflag XIII* noted that the "action of the last two nights
-and a day without rest was too much for [Task Force Baum] and many,
-standing or sitting, slept even as the column moved."  Upon arriving
-to Hill 427, Baum had just over 100 men, 3 light tanks, 4 Sherman
-tanks and 3 M4 Sherman assault guns and 15 half-tracks.  While
-reorganizing, Baum ordered the gas siphoned from 8 half-tracks and
-then a thermite grenade placed in the fuel
+Baum dispatched 1LT Nutto to find a route to Highway 27.
+Blocked by a roadblock at Bonnland, Nutto continued north-west towards
+Heßdorf.  The SS officer cadets sprung their ambush, wounding Nutto
+and destroying 3 Sherman tanks.  Nutto withdrew back to the main road
+and sent the report to Baum.  Just before 2300, Baum moved the task
+force to linkup with Nutto's reconnaissance element and continue
+searching for a path. [@Thomp1948OperationsTask, 15]
+
+From the prison camp, Baum moved east towards Höllrich and into
+another ambush, losing two tanks.  Realizing that he was blocked, Baum
+moved the task force to Hill 427 and waited for morning.  CPT Sheldon
+Thompson, a liberated POW from *Oflag XIII* noted that the "action of
+the last two nights and a day without rest was too much for
+[Task Force Baum] and many, standing or sitting, slept even as the
+column moved."  After arriving at Hill 427, Baum had just over 100
+men, 3 light tanks, 4 Sherman tanks and 3 M4 Sherman assault guns and
+15 half-tracks.  While reorganizing, Baum ordered the gas siphoned
+from 8 half-tracks and then a thermite grenade placed in the fuel
 tank. [@Thomp1948OperationsTask, 18,19]
 
-Unbeknownst to Baum, Hill 427 was a tank gunnery range for the
-Hoepple's anti-tank course.  During the night, Hoepple's OCS cadets
-moved within 50 meters of the American positions, supported by 5 Tiger
-tanks.  Koehl maneuvered his *jagermeister's* into position.  At 0810,
-as Task Force Baum was preparing to depart, the ambush
-commenced. [@Inge2002HammelburgRaid, 7]  With Koehl's 8?
-*Jagermeister's*, the 5 Tiger tanks and the 40-70 panzerfausts, the
-battle last only 25 minutes.  At 0835, Baum told the group to escape
-and evade in groups of three or four and make for American lines.
-Only ?? made it back.
+Unbeknownst to Baum, Hill 427 was a range for the Hoepple's anti-tank
+course.  During the night, Hoepple's officer cadets moved within 50 meters
+of the American positions waiting for the signal to begin their
+attack.  At 0810, as Task Force Baum was preparing to depart, the
+ambush commenced with a volley from the assault gun
+battalion. [@Inge2002HammelburgRaid, 7]  The coordinated completely
+overwhelmed Baum's formation.  After 25 minutes, all vehicles were
+destroyed.  At 0835, Baum told the group to escape and evade in groups
+of three or four and make for American
+lines. [@Koyen1946FourthArmored, 135]
 
 
 \invisiblesection{Analysis of the Hammelburg Raid}
 
-Task Force Baum failed to liberate prisoners at *Oflag XIII* because
-the task force violated two principles of the offense, concentration
-and tempo.
+The Hammelburg Raid failed to liberate prisoners at *Oflag XIII*
+because the raid violated two of the four characteristics of the
+offense, concentration and tempo.  The other characteristics of the
+offense, surprise and audacity were present in abundance.
 
-Task Force Baum was not the appropriate formation for a daring raid 60
-miles into enemy territory.  A raid is defined as "limited objectives,
-large enough, blah blah".  When Patton assigned the mission, the
-entire chain of command protested the small size.  Hoge, the division
-commander, Abrams, the Combat Command, Piles dude and finally, Baum
-questioned the rationale of using 300 troopers for a mission fraught
-with risks.  Patton claims he was persuaded by Bradley to uphold the
-small size, but the diaries of both generals conflict each other.
+Task Force Baum was not an appropriate formation for a daring raid 60
+miles into enemy territory.  A raid is defined as "swift,temporary
+penetration of enemy territory for a specific mission" that require
+"detailed intelligence, preparation and planning."
+[@U.S.2009CombinedArms, 6-40]  When Patton assigned the mission, the
+entire chain of command protested the small size.  Hoge, Abrams, Cohen
+and Baum all questioned the rationale of using 300 troopers for a
+mission fraught with risks.  Patton claims he was persuaded by Bradley
+to uphold the small size, but the diaries of both generals conflict
+each other.
 
-Maj Stiller
+The risk of a small organic formation was not mitigated.  In short the
+risks were; a small formation, no support from 3rd Army since it was
+moving North, they were operating in 7th Army's area of operations.
 
-A raid is often a risky endeavor.  In the Hammelburg Raid, no attempt
-was made to mitigate the multiple risks to mission accomplishment.  In
-short the risks were; a small formation, no support from 3rd Army
-since it was moving North, they were operating in 7th Army's area of
-operations.
+Political power directed concentration in the wrong places.  Patton
+request that MAJ Stiller, his aide, accompany the raid.  Ostensibly,
+MAJ Stiller's purpose was to experience a "taste of combat" but
+Stiller later told Baum that his purpose was to identify LTC John Waters,
+Patton's son-in-law. [@BaronBG2009RaidUntold, 23, 37]  Though Patton
+later vehemently denied organizing the raid to rescue his son-in-law,
+his letters to his wife suggest he knew of Water's location at
+*Oflag*. [@Blume1996PattonPapers, 664-665, 675]
 
-Patton never freed POW camps, Clausewitz guidance.
 
-No sleep 100 hours at 0230[@Whiti200348Hours, 28]
+"Never send a boy on a man's job, the larger the force and the more
+violence you use in the attack [...] the smaller will be your
+proportionate losses." [@Thomp1948OperationsTask, 22]  Patton did not
+take his own advice into account.  He acknowledge the small force as
+his only mistake.  No attempt was made to integrate Allied air power
+into the mission, which by March 1944 was completely dominant.  Task
+Force Baum passed out of artillery range after 10 miles, and so
+operated alone, unafraid and unsupported past Laufach.
 
-misleading motives
-Beatrice may get there [@Blume1996PattonPapers, 664]
-Hope to send expedition [@Blume1996PattonPapers, 665]
-directed eddy, reluctant fear of criticism [@Blume1996PattonPapers, 665]
-Press conference [@Blume1996PattonPapers, 675]
-
-"However, as General Patton himself remarked, 'Never send a boy on a
-man's job, the larger the force and the more violence you use in the
-attack [...] the smaller will be your proportionate
-losses.'" [@Thomp1948OperationsTask, 22]
-No attempt was made to integrate Allied air power into the mission,
-which by March 1944 was completely dominant.  Task Force Baum passed
-out of artillery range after 10 miles, and so operated alone, unafraid
-and unsupported past Laufach.
-
-CPT Sheldon's lessons:
-1. A unit should not be given an exploitation mission beyond its
-inherent capabilities.
-2. Lack of sleep and rest lowers combat efficiency and staying power.
-3. Speed and violence of attack saves time and lives during
-   exploitation.
-4. Proper use of light reconnaissance will conserve the strength of a
-unit as well as give it security.
-11. Reorganization, to be successful, must be conducted with all
-possible speed.
-16. Courage and leadership alone cannot insure (sp) the success of an
-    operation.
-[@Thomp1948OperationsTask, page 26,27]
 
 Secondly, the Task Force did not maintain the sufficient tempo need to
 complete the raid while still operating within the safety net of
@@ -322,23 +316,32 @@ route.  After using tanks to knock down telephone poles, Baum ordered
 his infantry to move to cut the wires.  At Gemünden, Baum destroyed
 several barges, and rail cars.
 
+By the time Baum moved to Hill 427, his men had gone without sleep for
+100 hours. [@Whiti200348Hours, 28]
+
 Additionally, U.S. Armor in WWII was unaccustomed to traveling at
 night.  Under black-out conditions the Task Force managed only 15mph.
 
-Initially, Patton's hallmarks of surprise and audacity allowed the
-Task Force relative safety.  However, after the release of Lotz at
-Gräfendorf, Obstfelder knew the disposition and objective of Task
-Force Baum.  Shortly thereafter at 1400, the German scout plane
-reported the composition, painting a complete picture for
-Obstfelder.   It was at this point that the battle
-was lost.  Baum lost any marked advantage against the *Wehrmacht* and
-was doomed to not complete the mission.
+Initially, Patton's hallmarks of surprise and audacity afforded the
+Task Force relative safety under a blanket of fog.  Obstfelder slowly
+lifted the fog of war as Baum continued.  After confirming his
+composition, disposition and objective via the plane and Lotz at
+Weickersgruben, Baum lost all advantage.  The compressed planning
+timeline orchestrated by Patton cost hours on the battlefield.  Most
+of Baum's men were poorly informed about the mission.  Additionally,
+there was no plane for consolidating prisoner's at the prison.
 
-"Most confused state" [@Koyen1946FourthArmored, page 205]
+
+Baum failed to use his reconnaissance assets to prevent friction from
+disrupting his tempo.
+
 
 Audacity and surprise are often necessary for mission accomplishment
-but were not sufficient for Task Force Baum.
-\TODO[inline]{add footnote citations to bibliography, westpoint and robel}
+but were not sufficient for Task Force Baum.  Task Force Baum holds
+the distinction of venturing farther into enemy territory than any
+force before without the promise of
+reinforcement. [@BaronBG2009RaidUntold, 111]
+
 \TODO[inline]{scale parenthesis around small caps}
 \TODO[inline]{kerning of small caps after quotes}
 
