@@ -107,6 +107,7 @@ $endfor$
   \par
   \vskip 1.5em}
 \makeatother
+% Invisible sections
 % http://tex.stackexchange.com/questions/149977/how-to-make-invisible-section-header-noticeable-in-the-toc
 \makeatletter
 \newcommand\invisiblesection[1]{%
@@ -122,6 +123,12 @@ $endfor$
      {\todo[caption={#2}, #1]
      {\begin{spacing}{0.5}#2\end{spacing}}}
 
+% textblock works in multiples of TPHorizModule and TPVertModule.  We
+% need this to absolutely postion the letterhead and DOD seal.  Trying
+% to place them by adjusting margins is fucking impossible.
+\usepackage[absolute,overlay]{textpos}
+\setlength{\TPHorizModule}{.25in}
+\setlength{\TPVertModule}{.25in}
 
 \usepackage{pdfpages}
 \usepackage{pdflscape}

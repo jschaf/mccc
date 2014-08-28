@@ -10,32 +10,54 @@ nocite: |
     @Gries2001WestPoint
 ...
 
-The raid on the prison camp *Oflag XIII* was audacious, fast and
-doomed to failure.  The raid by Task Force Baum failed to liberate
-prisoners from *Oflag XIII* on 26-27 March 1945 because the mission
-violated the characteristics of the offense, namely concentration and
-tempo.  The principle of concentration was violated because political
-influence directed the mission to use a small task force of three
-companies that was unable to sustain operations in a deep raid.  The
-principle of tempo was violated because the the hastily planned
-mission was bogged down by every unforeseen contingency.
+The Hammelburg raid was audacious, fast and a tactial failure.  Task
+Force Baum failed to liberate prisoners from *Oflag XIII* on 27 March
+1945 because the mission violated the characteristics of the offense,
+namely concentration and tempo.  The principle of concentration was
+violated because political influence directed the mission to use a
+small task force that was unable to sustain operations in a deep raid.
+The characteristic of tempo was violated because the the hastily
+planned mission was bogged down by every unforeseen contingency.
 
 \invisiblesection{Synopsis of the Hammelburg Raid}
 
-As LTG Patton liberated Bastogne, his 3rd Army continued the attack
-north, crossing Rhine and entering the end game for WWII.  See Annex 1
-for an overview of forces.  During this push, Patton found himself
-within 60 miles of *Oflag XIII*, a German prison camp for offices.
-Intelligence from the Red Army indicated that a large group of
-prisoners was recently transferred from *Oflag LXIV* in Szubin, Poland
-to *Oflag XIII* near Hammelburg, Germany. [@MelteRoadsLiberation, 173]
-Among the group of prisoners was rumored to be LTC John Waters,
-Patton's son-in-law.
+After LTG Patton liberated Bastogne in December, 1944 his Third Army
+continued the attack north, crossing the Rhine River and beginning the
+end game of WWII.  See Figure \ref{fig:alliedOverview} for the
+dispostion of Allied and German Forces during the Hammelburg Raid.  During this
+push, Patton found himself within 60 miles of *Oflag XIII*, a German
+prison camp for offices.  Intelligence from the Red Army indicated
+that a large group of prisoners was recently transferred from *Oflag
+LXIV* in Szubin, Poland to *Oflag XIII* near Hammelburg,
+Germany. [@MelteRoadsLiberation, 173]  Among the group of prisoners
+was rumored to be LTC John Waters, Patton's son-in-law.
 
-\begin{figure}[htbp]
+Patton assigned the mission to Major General Manton Eddy, commander of
+XII Corps, who passed it to the 4th Armored Division's commander,
+Brigadier General William Hoge.  Among Patton's subordinates, the 4th
+Armored was Patton's favorite.  Patton stated "There has never been
+such a superb fighting organization as the Fourth Armored Division."
+[@ForesBattleTrue, 298] Patton insisted that no more than 300 men take
+part in the operation believing that the smaller force would be faster
+than a larger formation.  Hoge assigned the mission to Combat Command
+B, the precursor to a modern combined arms brigade, commanded by LTC
+Creighton Abrams. [@BaronBG2009RaidUntold, 14,19,20]  Patton said of
+Abrams, "I am supposed to be the best tank commander in the Army, but
+I have one peer -- Abe Abrams." [@Koyen1948GeneralPattons, 19]    Abrams
+assigned the mission to LTC Cohen, commander of the 10th Armored
+Infantry Battalion.  Unfortunately, LTC Cohen face had a fierce case
+of hemorrhoids.  Upon personal examination, Patton, drawing on his
+extensive experience as a cavalryman, exclaimed "That is some sorry
+ass. Terrible." LTC Cohen suggest that his S3, CPT Abe Baum lead the
+mission in his stead.[@BaronBG2009RaidUntold, 20]  Baum received his
+orders at 1700 on 26 March, 1945 and prepared to move out six hours
+later. [@Jan1945Diary, 1]
+
+\begin{figure}[t]
 \centering
 \includegraphics{../allied-overview.pdf}
 \caption{Disposition of Allied and German Forces during the Hammelburg Raid\protect\footnotemark}
+\label{fig:alliedOverview}
 \end{figure}
 \footnotetext{\emph{West Point Atlas for the Second World War: Europe and
   the Mediterranean}, The West Point Military History Series (Garden
@@ -43,31 +65,9 @@ Patton's son-in-law.
   \url{http://www.westpoint.edu/history/SitePages/WWII/\%20European/\%20Theater.aspx},
   modified to show the route of Task Force Baum. }
 
-Patton gave the mission to Major General Manton Eddy, commander of XII
-Corps, who passed it to the 4th Armored Division's commander,
-Brigadier General William Hoge.  Among Patton's subordinates, the 4th
-Armored was Patton's favorite.  Patton stated "There has never been
-such a superb fighting organization as the Fourth Armored Division."
-[@ForesBattleTrue, 298] Patton insisted that no more than 300 men take
-part in the operation believing that the smaller force would be faster
-than a larger formation.  Hoge assigned the mission to Combat Command
-B, commanded by LTC Creighton
-Abrams. [@BaronBG2009RaidUntold, 14,19,20]  Patton said of Abrams, "I
-am supposed to be the best tank commander in the Army, but I have one
-peer -- Abe Abrams." [@Koyen1948GeneralPattons, 19] A combat command was
-a precursor to a combined arms brigade. Abrams assigned the mission to
-LTC Cohen, commander of the 10th Armored Infantry Battalion.
-Unfortunately, LTC Cohen face had a fierce case of hemorrhoids.  Upon
-personal examination, Patton, drawing on his extensive experience as a
-cavalryman, exclaimed "That is some sorry ass. Terrible." LTC Cohen
-suggest that his S3, CPT Abe Baum lead the mission in his
-stead.[@BaronBG2009RaidUntold, 20]  Baum received his orders at 1700
-on 26 March, 1945 and prepared to move out six hours
-later. [@Jan1945Diary, 1]
-
 The mission was unusual in many regards.  Patton had never before
 liberated POW camps.  The precise location of the camp was unknown.
-After the raid started, Third Army would continue north, leaving Task
+After the raid started, Third Army would continue North, leaving Task
 Force Baum in Seventh Army's area of operations.  Additionally, there
 was no reserve and dedicated air support was limited to one propeller
 plane to relay radio messages.  The 60 miles to *Oflag XIII* would
@@ -75,17 +75,16 @@ take Task Force Baum out of artillery range after 10
 miles. [@BaronBG2009RaidUntold, 22,28]
 
 Baum quickly assembled his task force, hand-picking Companies and
-support elements from the 37th Tank Battalion and the 10th Armored
-Infantry Battalion of Combat Command B.  The final composition of Task
-Force Baum was 11 officers, 283 men, and 53 vehicles.  From the 10th
-Armored Infantry Battalion, Baum had Alpha Company under command of
-CPT Lange and a reconnaissance section under command of 2LT Hoeffner.
-From the 37th Tank Battalion, Baum received Charlie Company under
-command of 2LT Nutto, a platoon from Delta Company under the command
-of 2LT Weaver and a platoon of tank destroyers under command of TSGT
-Graham.
+elements from the 37th Tank Battalion and the 10th Armored Infantry
+Battalion.  From the 10th Armored Infantry Battalion, Baum selected
+Alpha Company under command of CPT Lange and a reconnaissance section
+under command of 2LT Hoeffner.  From the 37th Tank Battalion, Baum
+received Charlie Company under command of 2LT Nutto, a platoon from
+Delta Company under the command of 2LT Weaver and a platoon of tank
+destroyers under command of TSGT Graham.  The final composition of
+Task Force Baum was 11 officers, 283 men, and 53 vehicles.
 
-\begin{figure}[htbp]
+\begin{figure}[h]
 \centering
 \includegraphics{../Hammelburg-Taskorg.pdf}
 \caption{Task Force Baum Task Organization\protect\footnotemark}
@@ -100,22 +99,23 @@ Abrams used his two companies clear a route through the town of
 Schweinheim for Task Force Baum.  The artillery barrage began at 2030.
 Impatient by the delay wrought by fierce German resistance, at 2330,
 Baum told his men "we'll leave when I return from the front."  After a
-brief scouting mission, Task Force Baum rolled through Schweinheim,
-finally beginning their mission at 0000 on 27
+brief scouting mission, Task Force Baum charged through Schweinheim,
+beginning their mission at 0030 on 27
 March.[@BaronBG2009RaidUntold, 54]
 
-The Oberkommando der Wehrmacht (OKW), German High Command, was
-notified of the breach shortly thereafter at 0100.  The German staff
-surmised that Patton exploited a weak spot in the German line and
-directed General Obstfelder, the Seventh Army commander, to
-"concentrate all available forces to annihilate the enemy task force."
-[@BaronBG2009RaidUntold, 113] General Obstfelder had assumed command
-that day.  His predecessor, General Felber failed to defend the bridge
-at Remagen.  CPT Tobin Green, writing for the Strategic Studies
-Research Seminar, noted that "Ironically, this same event resulted in
-William Hoge's promotion to brigadier general and command of the 4th
-Armored only five days before the German Seventh Army change of
-command." [@Green1994HammelburgRaid, 48]
+The Oberkommando der Wehrmacht (OKW), the German Supreme Command of
+Armed Forces, was notified of the breach shortly thereafter at 0100.
+The German staff surmised that Patton exploited a weak spot in the
+German line. The OKW directed General Obstfelder, the Seventh Army
+commander, to "concentrate all available forces to annihilate the
+enemy task force."  [@BaronBG2009RaidUntold, 113] General Obstfelder
+had assumed command that day after his predecessor, General Felber,
+failed to defend the bridge at Remagen.  CPT Tobin Green, writing for
+the Strategic Studies Research Seminar, noted the irony in the timing
+of the replacment, as the "same event resulted in William Hoge's
+promotion to brigadier general and command of the 4th Armored only
+five days before the German Seventh Army change of command."
+[@Green1994HammelburgRaid, 48]
 
 Baum reached his first objective at 0230, merging onto Highway 26 near
 the town of Laufach.  To hinder German reporting of his progress, Baum
@@ -123,24 +123,25 @@ directed his Sherman tanks to knock down the telephone poles to
 disrupt German communications.  Unsatisfied that the felled telephone
 were inoperable, Baum directed his infantry to dismount and cut the
 wires to ensure the job was done. The technique was unsuccessful.
-Under black-out driving conditions, the mile long convoy was limited
+Driving under black-out conditions, the mile long convoy was limited
 to 15mph.  News of the breach traveled faster than Baum's attack.  By
-the time the convoy reached Fronhofen, they were greeted by white
-sheets hanging from windows in the early dawn.  The first road block
-materialized a few miles later at Lohr.  While navigating around the
-overturned truck, a *panzerfaust* destroyed the first vehicle from
-Task Force Baum.  The crew of the tank scrambled from the vehicle as
-the rest of convoy poured fire into the ambush
+the time the convoy reached Fronhofen, white sheets greeted them,
+hanging from windows in the early dawn.  The first road block appeared
+a few miles later at Lohr.  While navigating around the overturned
+truck, a *panzerfaust* destroyed the first vehicle from Task Force
+Baum.  The crew of the tank scrambled from the vehicle as the rest of
+convoy poured fire into the ambush
 location. [@BaronBG2009RaidUntold, 116-117]
 
 Baum planned to cross the Sinn River at Gemünden, opting to take the
 most direct route to Hammelburg.  Obstfelder, anticipating the route,
 directed his troops to establish a hasty defense and to rig the bridge
-with explosives.  Upon entering the town they Baum received immediate,
-effective fire.  In the span of minutes, three tanks were destroyed
-and several infantrymen succumbed to the heavy
-fire. [@Baum1945NotesTask, 1]  Two men made it across the bridge
-prompting the Germans to blow the bridge.  With no way forward, Baum
+with explosives.  As the column entered the town, they received
+immediate, effective fire.  In the span of minutes, three tanks were
+destroyed and several infantrymen succumbed to the heavy
+fire. [@Baum1945NotesTask, 1]  Two Americans made it across the river
+prompting the Germans to blow the bridge, sending two soldiers into
+the river below.  With no way forward, Baum
 began the precarious task of withdrawing an armored formation under
 fire.  Baum returned to Langenprozelten and started North to find
 another crossing .  Fortune returned to Baum as a wayward propaganda
@@ -149,11 +150,11 @@ enlisted their help, and after a few broadcasts, 200 Germans from the
 Gemünden defense promptly surrendered.  After the propaganda team left
 back towards friendly lines, the convoy's lead tank knocked a German
 rider off his motorcycles. [@Green1994HammelburgRaid, 17]  After a
-brief tactical questioning, Baum's interpreter, PFC Sotoloff
-discerned that the soldier was a paratrooper and deserted from the
-Eastern front to see his wife and newborn baby.  Baum took the time to
-draw his knife before gently asking the paratrooper the location of
-the next bridge.  The paratrooper quickly told of a bridge at Burgsinn
+brief tactical questioning, Baum's interpreter, PFC Sotoloff discerned
+that the soldier was a paratrooper and deserted from the Eastern front
+to see his wife and newborn baby.  Baum took the time to draw his
+knife before gently asking the paratrooper the location of the next
+bridge.  The paratrooper quickly told of a bridge at Burgsinn
 prompting Baum to continue north.  The paratrooper proved valuable,
 coaxing several squads of Germans from hiding, exclaiming the
 "American's are here".  Sotoloff helpfully added "It's better to
@@ -210,23 +211,29 @@ route to Highway 27.
 Ran out of fuel [@Baum1945NotesTask, 3]
 
 \begin{landscape}
-\begin{figure}[htbp]
+\singlespacing
+\footnoterule
+\footnotesize \textsuperscript{*} Map created with \emph{QGIS} and
+\emph{Adobe Illustrator} using physical feature
+data from \url{http://download.geofabrik.de/europe/germany.html};
+Locations, times and events compiled from Baron, Baum, and Goldhurst, \emph{Raid!:
+The Untold Story of Patton’s Secret Mission} and  Baum, \emph{Notes on Task Force Baum: Raid on Hammelburg,
+March 27, 1945}
+\begin{figure}[t!]
 \centering
 \includegraphics{../hammelburg-overview.pdf}
-\caption{Task Force Hammelburg Raid Mission Overview}
+\caption{Task Force Hammelburg Raid Mission Overview\textsuperscript{*}}
+\label{fig:hammelburgOverview}
 \end{figure}
 \end{landscape}
 
-<!-- \footnotetext{Map created with physical feature data from -->
-<!-- \href{http://download.geofabrik.de/europe/germany.html}; TODO: cite Baum} -->
-
-As Baum wrestled with the logistics of transportation, Hoepple
-arranged his trap.  Hoepple commanded a training area for replacement
-troops.  Under his command, Hoepple had three classes, a company of
-anti-tank NCOs, 300 SS officer cadets, and a platoon-size engineer
-class.  Hoepple position the NCO anti-tank class south of Bonnland.
-The SS officer cadets established blocking positions at Heßdorf and
-Höllrich, reinforced by the recent arrival of five tiger
+As Baum wrestled with the logistics of prisoner transportation,
+Hoepple arranged his trap.  Hoepple commanded a training area for
+replacement troops.  Under his command, Hoepple trained three classes,
+a company of anti-tank NCOs, 300 SS officer cadets, and a platoon-size
+engineer class.  Hoepple position the NCO anti-tank class south of
+Bonnland.  The SS officer cadets established blocking positions at
+Heßdorf and Höllrich, reinforced by the recent arrival of five tiger
 tanks. [@Robel2000PattonsHammelburg, 30-31]  The engineer class linked
 up with Koehl's *panzerjäger's* and moved south of Lager Hammelburg.
 A German assault gun battalion moved south of Hill 427 to setup an
