@@ -39,9 +39,8 @@ def small_caps(key, value, format, meta):
                     Str2(value[-2:])]
         # A pluralized acronym
         elif value[-1] == 's':
-            return [SmallCaps([Str2(value[:-1])])
-                    # Str2(value[-1])
-            ]
+            return [SmallCaps([Str2(value[:-1])]),
+                    Str2(value[-1])]
         else:
             return SmallCaps([Str2(value)])
     elif value in JOBS or value in RANKS:
