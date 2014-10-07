@@ -1,5 +1,6 @@
 INPUT = recommendations
 BUILDDIR = build
+BIBLIOGRAPHY = Somalia.bib
 
 # --filter smallcaps.py
 all: update-bib builddir
@@ -42,4 +43,4 @@ builddir:
 	mkdir -p $(BUILDDIR)
 
 update-bib:
-	curl --silent --show-error http://localhost:23119/better-bibtex/collection?/0/SDS9BX2N.biblatex > somalia.bib
+	curl --silent --show-error http://localhost:23119/better-bibtex/collection?/0/SDS9BX2N.biblatex > $(BIBLIOGRAPHY)

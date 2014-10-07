@@ -3,8 +3,8 @@ title: US Policy Recommendations in Somalia
 author:
 - name: CPT Joe Schafer
   affiliation: Team 2, Seminar 3
-bibliography: somalia.bib
-date: 06 October 2014
+bibliography: Somalia.bib
+date: 6 October 2014
 ...
 
 The United States should assist Somalia in defeating the Al-Queda
