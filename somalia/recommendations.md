@@ -1,5 +1,5 @@
 ---
-title: Instability in Somalia
+title: US Policy Recommendations in Somalia
 author:
 - name: CPT Joe Schafer
   affiliation: Team 2, Seminar 3
