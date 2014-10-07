@@ -13,7 +13,7 @@ development to develop Somali youth.  The primary driver of
 instability in Somalia is the excluded youth population.  The United
 States should sponsor infrastructure projects to bolster health and
 education development in order to integrate the youth populace into
-society.  Additionally, the United States should parter with the
+society.  Additionally, the United States should partner with the
 African Union Mission in Somalia (AMISOM) to maintain security.  These
 actions support United States foreign policy goals by denying safe
 haven to terrorist groups.  To gain a Somali perspective, I contacted
@@ -41,17 +41,17 @@ Somalia should be left unimpeded to choose their own politicians.
 
 ## Empower the Youth
 
-The key to stabalizing Somalia is the peaceful integration of the
+The key to stabilizing Somalia is the peaceful integration of the
 youth into society through expanded infrastructure and increased
 security.  Currently, Somali youth are disenfranchised due to a bleak
-job market with an unemployment rate execeeding 67 percent.  The lack
-of education opportunites complicates the problem of youth integration
+job market with an unemployment rate exceeding 67 percent.  The lack
+of education opportunities complicates the problem of youth integration
 by preventing youth from attaining the skills necessary to enter the
 job market.  The poor health infrastructure compounds the problem by
-exposeing a vulnerable populace to recruiting efforts from Al-Shabaab.
+exposing a vulnerable populace to recruiting efforts from Al-Shabaab.
 The United States should adopt the recommendations of the United
-Nations' 2012 Somali Human Development Report, particulary by
-supporting peacebuilding efforts. [@undp-12-development]  The United
+Nations' 2012 Somali Human Development Report, particularly by
+supporting peace-building efforts. [@undp-12-development]  The United
 States should aid Somali youth indirectly by improving health and
 education infrastructure and by increasing the security by partnering
 with AMISOM.  The security and infrastructure first approach follows
@@ -74,7 +74,7 @@ against Al-Shabaab.  On 5 October, 2014, AMISOM took the Al-Shabaab's
 last stronghold in the port town of Barre. [@Afric2014SomaliaNational]
 To continue this success, I recommend that the United States deploy a
 small task force to Somalia.  The AFRICOM regionally aligned force is
-2nd Brigade, 1st Infantry Division.  The task force will parter with
+2nd Brigade, 1st Infantry Division.  The task force will partner with
 the approximately division sized AMISOM force and offer insights into
 stability operations.
 
@@ -92,7 +92,7 @@ of improved healthcare systems in Somalia are made apparent by the
 recent outbreak of Ebola.  If an outbreak can be contained in Somalia,
 there is no chance it can spread to the United States.  Similarly,
 improved infrastructure secures the population by increasing their
-resilence to terrorist recruiting efforts.  The increased resilience
+resilience to terrorist recruiting efforts.  The increased resilience
 denies Al-Shabaab a base of operations to plan attacks against the
 United States.  By improving health and education infrastructure, the
 United States will safe guard its borders from epidemics and terrorist
