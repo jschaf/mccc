@@ -2,7 +2,7 @@ INPUT = recommendations
 BUILDDIR = build
 
 # --filter smallcaps.py
-all: builddir
+all: update-bib builddir
 	pandoc				\
 	  --filter pandoc-citeproc	\
 	  --csl=turabian.csl		\
