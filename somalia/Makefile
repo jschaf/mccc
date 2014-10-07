@@ -1,14 +1,15 @@
-INPUT = instability
+INPUT = recommendations
 BUILDDIR = build
-all:
+
+# --filter smallcaps.py
+all: builddir
 	pandoc				\
 	  --filter pandoc-citeproc	\
 	  --csl=turabian.csl		\
 	  --standalone			\
 	  --smart                       \
 	  -t native                     \
-	  --filter smallcaps.py    	\
-	  $(INPUT).md		\
+	  $(INPUT).md	         	\
 	|				\
 	pandoc				\
 	  -f native                     \
@@ -35,3 +36,10 @@ docx:
 	  --filter smallcaps.py    	\
 	  $(INPUT).md			\
           -o instability.docx
+
+
+builddir:
+	mkdir -p $(BUILDDIR)
+
+update-bib:
+	curl --silent --show-error http://localhost:23119/better-bibtex/collection?/0/SDS9BX2N.biblatex > somalia.bib
